@@ -1,6 +1,8 @@
 # Tech-Marketer
 Tech Marketer: A Job At The Edge Of Technology &amp; Marketing
 
+![技術行銷指南](https://i.imgur.com/BgGJNcz.png)
+
 ## 技術人員的行銷指南
 技術行銷人員是一個產品行銷專家，他對產品表現出熱情，能夠為科技品牌和產品創造牽引力的見解和經驗。技術行銷人員作為一個高科技產品的行銷人員，你要戴著多種帽子來幫助推動潛在客戶和顧客的增長。
 
