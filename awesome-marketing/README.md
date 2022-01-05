@@ -1,6 +1,6 @@
 ## Awesome Marketing
 
-[Awesome 行銷書籤 (GitHub)](https://github.com/tentenco/Tech-Marketer/tree/main/awesome-marketing)
+[Awesome 行銷書籤 (GitHub)](https://university.tenten.co/t/awesome-github/1170)
 
 為行銷人員精心挑選的資源的活文檔（或者，我為太多的東西添加了書籤，以至於忘記了它們在哪個文件夾中）。
 我還有另一個[很棒的開發者行銷](https://github.com/ronakganatra/awesome-developer-marketing)資源列表。
