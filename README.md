@@ -14,20 +14,13 @@ Tech Marketer: A Job At The Edge Of Technology &amp; Marketing
 
 當我們做第一個產品（一個iOS工程師的工具）時，我們就面臨著這些問題。我們花了將近兩年的時間來學習如何推銷我們的項目。在這段時間里，我們閱讀、嘗試並收藏了許多有用的東西：文章、影片、電子錶格、播客和工具。這些資源對我們幫助很大!請從我們的收集和經驗中學習、適應和測試令人敬畏的行銷黑客。祝您好運!
 
-_Lisa & Ahmed, [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_campaign=Collection-Marketing-For-Engineers&utm_medium=Free-Collection)的創始人，根據設計驗證iOS應用的工具_
-
 ## 🛠如何使用和貢獻
 
-為了獲得需要的建議，請。
-* 瀏覽我們的目錄。為了幫助你瀏覽，我們增加了每個行銷類別的簡要概述。此外，內容的標題也盡可能清楚地顯示出來（所以它會告訴你背景，以及你如何能從中受益）。
-* 搜索關鍵詞或短語（例如，"產品狩獵"、"Facebook"、"部落格"）。
-* 在Twitter上詢問[Lisa]（https://twitter.com/LisaDziuba）。
-
-如果你發現了一些很好的行銷內容或工具，請為工程師的行銷集錦做貢獻。只需根據我們的[貢獻指南](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/Contribution_Guidelines.md)提交一個拉動請求。我們希望你能看到你的建議!
+如果你發現了一些很好的行銷內容或工具，請為工程師的行銷集錦做貢獻。只需根據我們的[貢獻指南](https://github.com/tentenco/Tech-Marketer/blob/master/Contribution_Guidelines.md)提交一個拉動請求。我們希望你能看到你的建議!
 
 ## 📚目錄
-* [用戶研究](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-user-research)
-* [市場研究](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#mag_right-market-research)
+* [用戶研究](https://github.com/tentenco/Tech-Marketer/blob/master/README.md#-user-research)
+* [市場研究](https://github.com/tentenco/Tech-Marketer/blob/master/README.md#mag_right-market-research)
 * [無預算行銷](https://github.com/LisaDziuba/Marketing-for-Engineers#triumph-marketing-without-budget)
 * [內容行銷](https://github.com/LisaDziuba/Marketing-for-Engineers#-content-marketing)
   * [個人部落格](https://github.com/LisaDziuba/Marketing-for-Engineers#sunglasses-personal-blog)
@@ -46,9 +39,9 @@ _Lisa & Ahmed, [Flawless App](https://flawlessapp.io/?utm_source=Github&utm_camp
 * [冷門電子信箱行銷](https://github.com/LisaDziuba/Marketing-for-Engineers#fearful-cold-email-marketing)
 * [建立夥伴關係](https://github.com/LisaDziuba/Marketing-for-Engineers#bowtie-building-partnerships)
 * [行銷中的心理學](https://github.com/LisaDziuba/Marketing-for-Engineers#%EF%B8%8F-psychology-in-marketing)
-* [商業模式和定價](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#moneybag-business-model-and-pricing)
-* [行銷自動化](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#-marketing-automation)
-* [轉為SaaS模式](https://github.com/LisaDziuba/Marketing-for-Engineers/blob/master/README.md#moving-to-saas-model)
+* [商業模式和定價](https://github.com/tentenco/Tech-Marketer/blob/master/README.md#moneybag-business-model-and-pricing)
+* [行銷自動化](https://github.com/tentenco/Tech-Marketer/blob/master/README.md#-marketing-automation)
+* [轉為SaaS模式](https://github.com/tentenco/Tech-Marketer/blob/master/README.md#moving-to-saas-model)
 * [其他有用的資料](https://github.com/LisaDziuba/Marketing-for-Engineers#other-useful-materials)
 * [作者](https://github.com/LisaDziuba/Marketing-for-Engineers#-authors)
 * [未來計劃](https://github.com/LisaDziuba/Marketing-for-Engineers#future-plans)
