@@ -19,3 +19,10 @@
    - 📂 __marketing\-for\-engineers__
      - 📄 [README\-en.md](marketing-for-engineers/README-en.md)
      - 📄 [README.md](marketing-for-engineers/README.md)
+
+
+#### Usage
+Generate markdown tree of all the files in a directory, recursively.
+https://github.com/michalbe/md-file-tree
+
+`md-file-tree --emoji`
