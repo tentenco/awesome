@@ -1,15 +1,19 @@
 # 真棒的Webflow [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > 一個精心策劃的Webflow教程、模板、網站和其他資源的列表。
+> [Webflow 教學文件](https://tenten.co/docs-webflow)
+> [Webflow 中文教學 Youtube](https://www.youtube.com/user/tentencreative/featured)
+> [Webflow 中文社群 FB](https://www.facebook.com/groups/webflowschool)
+> [Webflow 學習資源](https://tenten.co/learning/tag/webflow)
 
-##教程
+## 教程
 
 - [Webflow大學](https://university.webflow.com/?ref=awesome-webflow)
 - [Makerpad](https://www.makerpad.co/tutorials?company=webflow/?ref=awesome-webflow)
 - [Design+Code Webflow課程](https://designcode.io/webflow/?ref=awesome-webflow)
 - [Jetboost教程](https://www.jetboost.io/tutorials/?ref=awesome-webflow)
 
-##模板
+## 模板
 
 - [Refokus工具](https://www.webflow-tools.refokus.io/?ref=awesome-webflow)
 - [Webflow模板](https://webflow.com/templates/?ref=awesome-webflow)
