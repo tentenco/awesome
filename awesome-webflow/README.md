@@ -1,4 +1,4 @@
-# 真棒的Webflow [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Webflow 
 
 > 一個精心策劃的Webflow教程、模板、網站和其他資源的列表。
 

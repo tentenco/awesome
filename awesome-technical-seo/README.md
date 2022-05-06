@@ -220,7 +220,7 @@
 > httparchive出的關於互聯網HTTP相關的一些重要統計數據的報告。
 據的報告。
 
-* [Core  Web Vitals | Google網站體驗核心指標 - LCP、FID、CLS](https://tenten.co/marketing/services/solutions/core-web-vitals)
+* [Core Web Vitals | Google網站體驗核心指標 - LCP、FID、CLS](https://tenten.co/marketing/services/solutions/core-web-vitals)
 * [2021 Google 最新演算法指標 - Core Web Vitals ( LCP、FID、CLS) , 頁面速度將影響你的 SEO排名！](https://tenten.co/learning/google-core-web-vitals/)
 * [SEO - TenToday 談數位](https://tenten.co/learning/tag/seo/)
 * [thospfuller/awesome-search-engine-optimization: A curated list of backlink, social signal opportunities, and link building strategies and tactics to help improve search engine results and ranking.](https://github.com/thospfuller/awesome-search-engine-optimization)
