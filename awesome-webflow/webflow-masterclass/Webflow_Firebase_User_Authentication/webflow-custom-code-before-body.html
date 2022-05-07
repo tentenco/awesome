@@ -1,0 +1,26 @@
+<script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-analytics.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-auth.js"></script>
+
+<script>
+var webflowAuth = {
+  loginPath: '/log-in',
+  loginRedirectPath: '/user',
+  signupPath: '/sign-up',
+  signupRedirectPath: '/user',
+  logoutRedirectPath: '/',
+  firebaseConfig: {
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
+  }
+};
+</script>
+
+<!-- you can replace this with the content from webflow-firebase-user-authentication.js -->
+<script src="webflow-firebase-user-authentication.js"></script>

@@ -1,4 +1,4 @@
-# HubSpot 真棒 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome HubSpot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > 一個精心策劃的 HubSpot 教程、模板、網站和其他資源的列表。
 
