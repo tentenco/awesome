@@ -1,0 +1,6 @@
+name = "PyroCMS"
+description = "PyroCMS is athe modular DDD-adheres PHP CMS/CMF, built on top of the Laravel's MVC implementation. It has artisan based code generators, which would made it funny to create the Domain including models or just a new theme and then develop that created code. It has the highest learning curve, from all described here products!"
+url = "https://www.pyrocms.com/"
+github_repo = "pyrocms/pyrocms"
+awesome_repo = "websemantics/awesome-pyrocms"
+language = "php"

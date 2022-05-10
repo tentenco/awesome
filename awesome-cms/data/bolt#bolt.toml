@@ -1,0 +1,5 @@
+name = "Bolt"
+description = "Bolt is an extensible Symfony-based CMS. It has a built-in REST & GraphQL API, multilingual and powerful content querying in Twig."
+url = "https://boltcms.io/"
+github_repo = "bolt/project"
+language = "php"
