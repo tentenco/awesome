@@ -1,4 +1,4 @@
-### **Awesome UX** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome )
+### Awesome UX
 
 > 用戶體驗設計是當我們開發關心用戶如何與之交互的東西時。基本上，用戶體驗關心用戶的幸福，關心為創造背後的人提供更好的條件。此列表中缺少某些內容？與我們一起貢獻。
 

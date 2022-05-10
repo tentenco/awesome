@@ -1,6 +1,6 @@
-<div class="hidden-in-page">
+# Awesome-Design-Tools
 
-# 很棒的設計工具
+<div class="hidden-in-page">
 
 - [真棒設計插件](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)
 - [Awesome Design Conferences](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Conferences.md)
