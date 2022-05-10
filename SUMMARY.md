@@ -28,7 +28,7 @@
 * [Nocode](nocode/README.md)
   * [Awesome NoCode / LowCode](nocode/awesome-nocode-lowcode/README.md)
     * [readme-en](nocode/awesome-nocode-lowcode/readme-en.md)
-* [tools](tools/README.md)
+* [Tools](tools/README.md)
   * [Awesome Mac](tools/awesome-mac/README.md)
     * [editor-plugin-zh](tools/awesome-mac/editor-plugin-zh.md)
     * [editor-plugin](tools/awesome-mac/editor-plugin.md)
