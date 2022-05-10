@@ -39,14 +39,14 @@
     * 📄 [package-lock.json](awesome-mac/package-lock.json)
     * 📄 [package.json](awesome-mac/package.json)
   * 📂 **awesome-marketing**
-    * 📄 [README.md](marketing/awesome-marketing/)
+    * 📄 [README.md](marketing/awesome-marketing.md)
     * 📂 **awesome-technical-seo**
-      * 📄 [README.md](marketing/awesome-marketing/awesome-technical-seo.md)
+      * 📄 [README.md](marketing/awesome-technical-seo.md)
     * 📂 **marketing-for-engineers**
-      * 📄 [README-en.md](marketing/awesome-marketing/marketing-for-engineers/readme-en.md)
-      * 📄 [README.md](marketing/awesome-marketing/marketing-for-engineers/)
+      * 📄 [README-en.md](marketing/marketing-for-engineers/readme-en.md)
+      * 📄 [README.md](marketing/marketing-for-engineers/)
     * 📂 **tech-marketer**
-      * 📄 [README.md](marketing/awesome-marketing/tech-marketer.md)
+      * 📄 [README.md](marketing/tech-marketer.md)
   * 📂 **awesome-nocode-lowcode**
     * 📄 [README-en.md](nocode/awesome-nocode-lowcode/readme-en.md)
     * 📄 [README.md](nocode/awesome-nocode-lowcode/)

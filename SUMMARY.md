@@ -22,14 +22,14 @@
 
 ## Marketing
 
-* [Awesome Marketing](marketing/awesome-marketing/README.md)
-  * [awesome-seo](marketing/awesome-marketing/awesome-technical-seo.md)
-  * [marketing-for-engineers](marketing/awesome-marketing/marketing-for-engineers/README.md)
-    * [README-en](marketing/awesome-marketing/marketing-for-engineers/readme-en.md)
-  * [Tech-Marketer](marketing/awesome-marketing/tech-marketer.md)
+* [Awesome Marketing](marketing/awesome-marketing.md)
 * [Awesome HubSpot](marketing/awesome-hubspot.md)
 * [Awesome ADTech](marketing/awesome-adtech/README.md)
   * [Awesome AdTech](marketing/awesome-adtech/readme-en.md)
+* [awesome-seo](marketing/awesome-technical-seo.md)
+* [marketing-for-engineers](marketing/marketing-for-engineers/README.md)
+  * [README-en](marketing/marketing-for-engineers/readme-en.md)
+* [Tech-Marketer](marketing/tech-marketer.md)
 
 ## Tools
 
