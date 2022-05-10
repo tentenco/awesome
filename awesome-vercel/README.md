@@ -1,123 +1,123 @@
-[](#awesome-vercel-previously-zeit-)Awesome Vercel (Previously ZEIT )
-=====================================================================
+[](#awesome-vercel-previously-zeit-)Awesome Vercel（以前是 ZEIT）
+==================================================== ====================
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![真棒](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-In the area of open source, there’s a lot of stuff happening around [Vercel](https://vercel.com). To make it easier for developers to reach these resources, I’ve decided to create a list for them. And here we are!
+在開源領域，圍繞 [Vercel](https://vercel.com) 發生了很多事情。為了讓開發人員更容易獲得這些資源，我決定為他們創建一個列表。我們在這裡！
 
-*   [Helpers](#helpers)
-*   [Libraries](#libraries)
-*   [Services](#services)
-*   [Deployment Examples](#deployment-examples)
-*   [Boilerplates](#boilerplates)
-*   [API Clients](#api-clients)
-*   [Vercel Showcase](#Vercel-showcase)
-*   [Related Lists](#related-lists)
-*   [Communities](#communities)
+* [助手](#helpers)
+* [庫](#libraries)
+* [服務](#services)
+* [部署示例](#deployment-examples)
+* [樣板](#boilerplates)
+* [API 客戶端](#api-clients)
+* [Vercel 展示](#Vercel-展示)
+* [相關列表](#related-lists)
+* [社區](#communities)
 
-### [](#helpers)Helpers
+### [](#helpers)助手
 
-*   [now-logs](https://logs.now.sh) - [📖](https://github.com/berzniz/now-logs) - Realtime logging for Vercel
-*   [now-no-alias](https://github.com/remy/now-no-alias) - CLI tool for Vercel to list idle deploys (with no active aliases).
-*   [now-pipeline](https://github.com/bahmutov/now-pipeline) - Single command to deploy, run e2e tests and switch alias if tests pass.
-*   [now-redirect](https://github.com/vdanchenkov/now-redirect) - Easily deploy a redirect like `www.domain.com` to `domain.com`.
-*   [zeit-deployments](https://github.com/pranaygp/zeit-deployments) - _deprecated_ - Deploy a tiny Next.js app to Vercel that lists all your Vercel deployments.
-*   [now-env](https://github.com/sergiodxa/now-env) - _deprecated_ Use now.json environment variables and secrets in development.
-*   [now-ab](https://github.com/sergiodxa/now-ab) - _deprecated_ AB test two or more Now deployments with a simple deploy.
-*   [now-server](https://github.com/markmarijnissen/now-server) - Local development server for alias path.
-*   [now-token](https://github.com/shawnbot/now-token) - Painlessly access your Vercel API access token from Node or the command line.
+* [now-logs](https://logs.now.sh) - [📖](https://github.com/berzniz/now-logs) - Vercel 的實時日誌記錄
+* [now-no-alias](https://github.com/remy/now-no-alias) - Vercel 列出空閒部署的 CLI 工具（沒有活動別名）。
+* [now-pipeline](https://github.com/bahmutov/now-pipeline) - 部署、運行 e2e 測試並在測試通過時切換別名的單個命令。
+* [now-redirect](https://github.com/vdanchenkov/now-redirect) - 輕鬆部署重定向，如 `www.domain.com` 到 `domain.com`。
+* [zeit-deployments](https://github.com/pranaygp/zeit-deployments) - _deprecated_ - 將一個小型 Next.js 應用程序部署到 Vercel，其中列出了所有 Vercel 部署。
+* [now-env](https://github.com/sergiodxa/now-env) - _deprecated_ 在開發中使用 now.json 環境變量和機密。
+* [now-ab](https://github.com/sergiodxa/now-ab) - _deprecated_ AB 使用簡單部署測試兩個或更多 Now 部署。
+* [now-server](https://github.com/markmarijnissen/now-server) - 別名路徑的本地開發服務器。
+* [now-token](https://github.com/shawnbot/now-token) - 從 Node 或命令行輕鬆訪問您的 Vercel API 訪問令牌。
 
-### [](#libraries)Libraries
+### [](#libraries)庫
 
-Take a look at [awesome-micro](https://github.com/amio/awesome-micro)! 😌
+看看[awesome-micro](https://github.com/amio/awesome-micro)！😌
 
-### [](#services)Services
+### [](#services)服務
 
-*   [deploy.now.sh](https://deploy.now.sh) - Deploy git repos to Vercel with the click of a button.
-*   [stage.now.sh](https://stage.now.sh) - Automatically create staging environments from GitHub pull request.
-*   [pullmeapp](https://github.com/ricardocasares/pullmeapp) - Stage your GitHub pull requests with personalized aliases.
+* [deploy.now.sh](https://deploy.now.sh) - 單擊按鈕將 git repos 部署到 Vercel。
+* [stage.now.sh](https://stage.now.sh) - 從 GitHub 拉取請求自動創建登台環境。
+* [pullmeapp](https://github.com/ricardocasares/pullmeapp) - 使用個性化別名暫存您的 GitHub 拉取請求。
 
-### [](#deployment-examples)Deployment Examples
+### [](#deployment-examples)部署示例
 
-*   [ws](https://ws.now.sh) - [📖](https://github.com/hemanth/ws-now) - Simple echo web-socket.
-*   [micro-link](https://micro-link.now.sh) - [📖](https://github.com/xkawi/micro-link) - A minimalistic microservice to generate and resolve sharable dynamic link (a.k.a deeplink).
-*   [image-upload](https://getexponent.com/@community/image-upload-example) - [📖](https://github.com/exponentjs/image-upload-example) - Demonstration of how to upload images from the ImagePicker.
+* [ws](https://ws.now.sh) - [📖](https://github.com/hemanth/ws-now) - 簡單的 echo web-socket。
+* [micro-link](https://micro-link.now.sh) - [📖](https://github.com/xkawi/micro-link) - 用於生成和解析可共享動態鏈接的簡約微服務（又名深度鏈接）。
+* [image-upload](https://getexponent.com/@community/image-upload-example) - [📖](https://github.com/exponentjs/image-upload-example) - 演示如何從 ImagePicker 上傳圖像。
 
-### [](#boilerplates)Boilerplates
+### [](#boilerplates)樣板
 
-*   [micro-rest](https://github.com/hyperfuse/micro-rest) - Easily deploy micro REST services.
-*   [datasette](https://github.com/simonw/datasette) - Instantly deploy a SQLite database as a JSON API, e.g. https://australian-dogs.now.sh/
-*   [now-go](https://github.com/amio/now-go) - Create & Deploy a personal tinyurl service in 1 minute.
-*   [create-react-app-now](https://github.com/xkawi/create-react-app-now) - Easily deploy react.js applications with Vercel.
-*   [micro-graphql](https://github.com/hyperfuse/micro-graphql) - Easily deploy micro GraphQL services. For an example of using GraphQL with Micro see [micro-graphql-example](https://www.github.com/timneutkens/micro-graphql)
-*   [create-micro](https://github.com/romuloalves/create-micro) - Create a basic micro-based service.
-*   [meteor-now](https://github.com/mazlix/meteor-now) - Deploy MeteorJS apps in one line through Vercel.
-*   [nuxt-micro-template](https://github.com/vuchl/nuxt-micro-template) - Scaffold for vue-cli to create [nuxt](https://github.com/nuxt/nuxt.js) apps with a [micro](https://github.com/zeit/micro) backend
-*   [micro-authentication-starter](https://github.com/littleStudent/micro-authentication-starter) - [micro](https://github.com/zeit/micro) starter kit with built in authentication using `bcrypt` and `jsonwebtokens`
-*   [aframe-next-static](https://github.com/michaltakac/aframe-next-static) - Build WebVR apps with A-frame and React, export and serve them as static sites on Vercel.
-*   [next-init](https://www.npmjs.com/package/next-init) - Simplest Next.js generator.
-*   [next.js-typescript-starter-kit](https://github.com/deptno/next.js-typescript-starter-kit) - Next.js@5 + redux + typescript, simple configuration for SEO, analytics. you can use styled-jsx in tsx.
+* [micro-rest](https://github.com/hyperfuse/micro-rest) - 輕鬆部署微 REST 服務。
+* [datasette](https://github.com/simonw/datasette) - 立即將 SQLite 數據庫部署為 JSON API，例如 https://australian-dogs.now.sh/
+* [now-go](https://github.com/amio/now-go) - 在 1 分鐘內創建和部署個人 tinyurl 服務。
+* [create-react-app-now](https://github.com/xkawi/create-react-app-now) - 使用 Vercel 輕鬆部署 react.js 應用程序。
+* [micro-graphql](https://github.com/hyperfuse/micro-graphql) - 輕鬆部署微 GraphQL 服務。有關將 GraphQL 與 Micro 一起使用的示例，請參閱 [micro-graphql-example](https://www.github.com/timneutkens/micro-graphql)
+* [create-micro](https://github.com/romuloalves/create-micro) - 創建一個基本的微服務。
+* [meteor-now](https://github.com/mazlix/meteor-now) - 通過 Vercel 將 MeteorJS 應用程序部署在一條線上。
+* [nuxt-micro-template](https://github.com/vuchl/nuxt-micro-template) - vue-cli 創建 [nuxt](https://github.com/nuxt/nuxt.js) 的腳手架) 帶有 [micro](https://github.com/zeit/micro) 後端的應用程序
+* [micro-authentication-starter](https://github.com/littleStudent/micro-authentication-starter) - [micro](https://github.com/zeit/micro) 使用`內置身份驗證的入門套件bcrypt` 和 `jsonwebtokens`
+* [aframe-next-static](https://github.com/michaltakac/aframe-next-static) - 使用 A-frame 和 React 構建 WebVR 應用程序，將它們導出並作為 Vercel 上的靜態站點提供服務。
+* [next-init](https://www.npmjs.com/package/next-init) - 最簡單的 Next.js 生成器。
+* [next.js-typescript-starter-kit](https://github.com/deptno/next.js-typescript-starter-kit) - Next.js@5 + redux + typescript，用於 SEO、分析的簡單配置. 你可以在 tsx 中使用 styled-jsx。
 
-### [](#api-clients)API Clients
+### [](#api-clients)API 客戶端
 
-*   [now-client](https://github.com/zeit/now-client) - _deprecated_ - Now’s JavaScript client for their API.
-*   [zeit-client-api](https://github.com/massless/zeit-client-api) - Another JavaScript client for managing your Vercel account.
-*   [now-fetch](https://github.com/shawnbot/now-fetch) - A lightweight Vercel API wrapper with the familiar `fetch()` interface.
-*   [pynow](https://github.com/controversial/pynow) - A python client for the Vercel API.
-*   [nash](https://github.com/littleStudent/now_dashboard) - _deprecated_ A web [dashboard](https://nash.now.sh) to manage deployments, aliases and secrets.
-*   [now4j](https://github.com/rm3l/now4j) - Unofficial Java client for the Vercel API
-*   [know](https://github.com/rm3l/know) - Unofficial Kotlin client for the Vercel API
-*   [now-php-client](https://github.com/joecohens/now-php-client) - Unofficial PHP 5.4+ client for the Vercel API
+* [now-client](https://github.com/zeit/now-client) - _deprecated_ - 現在他們的 API 的 JavaScript 客戶端。
+* [zeit-client-api](https://github.com/massless/zeit-client-api) - 另一個用於管理您的 Vercel 帳戶的 JavaScript 客戶端。
+* [now-fetch](https://github.com/shawnbot/now-fetch) - 一個輕量級的 Vercel API 包裝器，具有熟悉的 `fetch()` 接口。
+* [pynow](https://github.com/controversial/pynow) - Vercel API 的 python 客戶端。
+* [nash](https://github.com/littleStudent/now_dashboard) - _deprecated_ 一個用於管理部署、別名和機密的網絡 [dashboard](https://nash.now.sh)。
+* [now4j](https://github.com/rm3l/now4j) - Vercel API 的非官方 Java 客戶端
+* [know](https://github.com/rm3l/know) - Vercel API 的非官方 Kotlin 客戶端
+* [now-php-client](https://github.com/joecohens/now-php-client) - Vercel API 的非官方 PHP 5.4+ 客戶端
 
-### [](#vercel-showcase)Vercel Showcase
+### [](#vercel-showcase)Vercel 展示
 
-*   [illustrated-algorithms.now.sh](https://illustrated-algorithms.now.sh/) - This project aims to reveal the mechanics behind algorithms via interactive visualizations of their execution.
-*   [next-news.now.sh](https://next-news.now.sh/) - Hacker News made with Next.js
-*   [colors.now.sh](https://colors.now.sh/) - A Material Design color browser and picker
-*   [rainbow.now.sh](https://rainbow.now.sh) - A Material Design and Flat Design colour picker
-*   [xvg.now.sh](https://xvg.now.sh/) - A Chrome extension for debugging SVG paths
-*   [newton.now.sh](https://newton.now.sh/) - A really micro micro-service for advanced math
-*   [fe-lenses.now.sh](https://fe-lenses.now.sh/) - Full-frame E-mount lenses catalog
-*   [shot.now.sh](https://shot.now.sh/) - Screenshot as a Service
-*   [mess.now.sh](https://mess.now.sh/) - Obscure text with messed font
-*   [md.now.sh](https://md.now.sh/) - Markdown render service
-*   [go.now.sh](https://go.now.sh) - A personal tinyurl service
-*   [up.now.sh](https://up.now.sh/) - A microservice for checking whether a website is up
-*   [e.now.sh](https://e.now.sh/) - A microservice for serving, listing and searching for emoji
-*   [f.now.sh](https://f.now.sh/) - A microservice for getting a flag icon by country code
-*   [gif.now.sh](https://gif.now.sh) - A simple micro-service for Giphy’s Translate API
-*   [emails.now.sh](https://emails.now.sh) - Easily deploy an email delivery service to Vercel
-*   [next-time.now.sh](https://next-time.now.sh) ([src](https://github.com/billymoon/next-time)) - A very minimal Vercel themed clock (demonstrates isomorphic page rendering)
-*   [georgeo.now.sh](https://github.com/rmpato/georgeo) - A geocoding service with an API and a [web interface](https://georgeo.now.sh)
-*   [platzi-now.now.sh](https://platzi-now.now.sh/) - A Next.js + Docker GraphQL server app deployed to Now.sh using alias path to compose them
-*   [micro-github-latest.now.sh](https://micro-github-latest.now.sh/) - [📖](https://github.com/evenchange4/micro-github-latest) - Microservice for downloading the latest asset of GitHub release.
-*   [micro-medium-api.now.sh](https://micro-medium-api.now.sh/) - [📖](https://github.com/evenchange4/micro-medium-api) - Microservice for fetching the latest posts of Medium.
-*   [now-swift-example.now.sh](https://now-swift-example.now.sh/) - [📖](https://github.com/aranajhonny/now-swift-example) - Example of using server-side Swift + the Kitura framework inside a Docker container deployed to Now.sh.
-*   [builderbook.org](https://builderbook.org/) - [📖](https://github.com/builderbook/builderbook) - Open source web app to write and host documentation or sell books. Deployed with Now and built with React, Material-UI, Next.js, Express, Mongoose, MongoDB.
-*   [pompom.now.sh](https://pompom.now.sh/) - [📖](https://github.com/pantharshit00/pomodoro-gatsby) - Open source pomodoro clock made with React and Gatsby. Super fast, mobile friendly, dark themed, and works offline. Also has completion notification and alarm
-*   [kap-now](https://github.com/lucaperret/kap-now) - Deploy a [Kapture](https://github.com/wulkano/kap) with Vercel.
-*   [drone-now](https://github.com/lucaperret/drone-now) - Deploying to Vercel within [Drone CI](https://drone.io) pipeline.
-*   [vscode-now](https://github.com/lucaperret/vscode-now) - Create and manage your deployments and aliases within VS Code.
-*   [releasebutler.now.sh](https://releasebutler.now.sh/) - Get releases & changelogs of popular frontend frameworks & libraries!
-*   [carbon.now.sh](https://carbon.now.sh/) - Create and share beautiful images of your source code. Start typing or drop a file into the text area to get started.
-*   [iss.now.sh](https://iss.now.sh) - Service to receive push notifications when the ISS passes above you
-*   [circleci-artifacts.now.sh](https://circleci-artifacts.now.sh/) - Permanent link for redirecting to your latest CircleCI build artifacts, so you could host binaries, documentation and other files right from your project’s Circle CI jobs.
-*   [whatdoyouhear.now.sh](https://whatdoyouhear.now.sh) - Yanny or Laurel?
-*   [ipinfo.now.sh](https://github.com/GitSquared/ipapi) - _deprecated_ Fast & reliable geoip API powered by Now.
-*   [bashplate.now.sh](https://bashplate.now.sh) - Bash Plate lets you generate boilerplate for shell scripts that takes care of receiving, parsing, validating and documenting script arguments.
-*   [icon.now.sh](https://icon.now.sh) - SVG icon placeholder microservice.
-*   [github-contributions.now.sh](https://github-contributions.now.sh) - :octocat: GitHub Contributions Chart Generator
+* [illustrated-algorithms.now.sh](https://illustrated-algorithms.now.sh/) - 該項目旨在通過其執行的交互式可視化揭示算法背後的機制。
+* [next-news.now.sh](https://next-news.now.sh/) - 使用 Next.js 製作的黑客新聞
+* [colors.now.sh](https://colors.now.sh/) - Material Design 顏色瀏覽器和選擇器
+* [rainbow.now.sh](https://rainbow.now.sh) - 一個 Material Design 和 Flat Design 顏色選擇器
+* [xvg.now.sh](https://xvg.now.sh/) - 一個用於調試 SVG 路徑的 Chrome 擴展
+* [newton.now.sh](https://newton.now.sh/) - 一個真正的高級數學微服務
+* [fe-lenses.now.sh](https://fe-lenses.now.sh/) - 全畫幅 E 卡口鏡頭目錄
+* [shot.now.sh](https://shot.now.sh/) - 截圖即服務
+* [mess.now.sh](https://mess.now.sh/) - 帶有混亂字體的模糊文本
+* [md.now.sh](https://md.now.sh/) - Markdown 渲染服務
+* [go.now.sh](https://go.now.sh) - 個人 tinyurl 服務
+* [up.now.sh](https://up.now.sh/) - 用於檢查網站是否正常運行的微服務
+* [e.now.sh](https://e.now.sh/) - 用於服務、列出和搜索表情符號的微服務
+* [f.now.sh](https://f.now.sh/) - 通過國家代碼獲取國旗圖標的微服務
+* [gif.now.sh](https://gif.now.sh) - Giphy 翻譯 API 的簡單微服務
+* [emails.now.sh](https://emails.now.sh) - 輕鬆將電子郵件遞送服務部署到 Vercel
+* [next-time.now.sh](https://next-time.now.sh) ([src](https://github.com/billymoon/next-time)) - 一個非常小的 Vercel 主題時鐘（演示同構頁面渲染）
+* [georgeo.now.sh](https://github.com/rmpato/georgeo) - 具有 API 和 [Web 界面](https://georgeo.now.sh) 的地理編碼服務
+* [platzi-now.now.sh](https://platzi-now.now.sh/) - Next.js + Docker GraphQL 服務器應用程序部署到 Now.sh 使用別名路徑組合它們
+* [micro-github-latest.now.sh](https://micro-github-latest.now.sh/) - [📖](https://github.com/evenchange4/micro-github-latest) -用於下載 GitHub 發布的最新資產的微服務。
+* [micro-medium-api.now.sh](https://micro-medium-api.now.sh/) - [📖](https://github.com/evenchange4/micro-medium-api) -用於獲取 Medium 最新帖子的微服務。
+* [now-swift-example.now.sh](https://now-swift-example.now.sh/) - [📖](https://github.com/aranajhonny/now-swift-example) -在部署到 Now.sh 的 Docker 容器中使用服務器端 Swift + Kitura 框架的示例。
+* [builderbook.org](https://builderbook.org/) - [📖](https://github.com/builderbook/builderbook) - 用於編寫和託管文檔或銷售書籍的開源 Web 應用程序。使用 Now 部署並使用 React、Material-UI、Next.js、Express、Mongoose、MongoDB 構建。
+* [pompom.now.sh](https://pompom.now.sh/) - [📖](https://github.com/pantharshit00/pomodoro-gatsby) - 使用 React 和 Gatsby 製作的開源番茄鐘。超快，移動友好，深色主題，離線工作。還有完成通知和警報
+* [kap-now](https://github.com/lucaperret/kap-now) - 使用 Vercel 部署 [Kapture](https://github.com/wulkano/kap)。
+* [drone-now](https://github.com/lucaperret/drone-now) - 在 [Drone CI](https://drone.io) 管道中部署到 Vercel。
+* [vscode-now](https://github.com/lucaperret/vscode-now) - 在 VS Code 中創建和管理您的部署和別名。
+* [releasebutler.now.sh](https://releasebutler.now.sh/) - 獲取流行前端框架和庫的發布和變更日誌！
+* [carbon.now.sh](https://carbon.now.sh/) - 創建和分享您的源代碼的精美圖片。開始鍵入或將文件拖放到文本區域以開始。
+* [iss.now.sh](https://iss.now.sh) - 當 ISS 通過您上方時接收推送通知的服務
+* [circleci-artifacts.now.sh](https://circleci-artifacts.now.sh/) - 用於重定向到您最新的 CircleCI 構建工件的永久鏈接，因此您可以直接從項目中託管二進製文件、文檔和其他文件圈子 CI 工作。
+* [whatdoyouhear.now.sh](https://whatdoyouhear.now.sh) - Yanny 還是 Laurel？
+* [ipinfo.no​​w.sh](https://github.com/GitSquared/ipapi) - _deprecated_ 由 Now 提供支持的快速可靠的 geoip API。
+* [bashplate.now.sh](https://bashplate.now.sh) - Bash Plate 允許您為負責接收、解析、驗證和記錄腳本參數的 shell 腳本生成樣板。
+* [icon.now.sh](https://icon.now.sh) - SVG 圖標佔位符微服務。
+* [github-contributions.now.sh](https://github-contributions.now.sh) - :octocat: GitHub 貢獻圖表生成器
 
-### [](#related-lists)Related Lists
+### [](#related-lists)相關列表
 
-*   [awesome-hyper](https://github.com/bnb/awesome-hyper) - Delightful Hyper plugins, themes, and resources.
+* [awesome-hyper](https://github.com/bnb/awesome-hyper) - 令人愉快的 Hyper 插件、主題和資源。
 
-### [](#communities)Communities
+### [](#communities)社區
 
-*   [Vercel](https://github.com/zeit/now/discussions) - Vercel on Github
+* [Vercel](https://github.com/zeit/now/discussions) - Github 上的 Vercel
 
-[](#contribute)Contribute
+[](#contribute)貢獻
 -------------------------
 
-1.  [Fork](https://help.github.com/articles/fork-a-repo/) this repository to your own GitHub account and then [clone](https://help.github.com/articles/cloning-a-repository/) it to your local device.
-2.  Start making changes!
+1. [fork](https://help.github.com/articles/fork-a-repo/) 這個倉庫到你自己的 GitHub 賬號然後[clone](https://help.github.com/articles/ cloning-a-repository/) 到您的本地設備。
+2.開始做出改變！
