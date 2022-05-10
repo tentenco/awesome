@@ -1,4 +1,3 @@
-<!-- Don't edit this file by hand. See CONTRIBUTING.md. -->
 # Awesome CMS
 
 [Postlight](https://postlight.com)'s Awesome CMS is a collection of **141** open and closed source Content Management
