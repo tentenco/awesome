@@ -1,47 +1,6 @@
 
-# 很棒的 NoCode / LowCode
+# Awesome NoCode / LowCode
 令人愉快的 NoCode / LowCode 應用程序和資源的精選列表。如需更多精彩，請查看 [awesome](https://github.com/sindresorhus/awesome)。
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https ://travis-ci.org/kairichard/awesome-nocode-lowcode.svg)](https://travis-ci.org/kairichard/awesome-nocode-lowcode)
-</div>
-<br/>
-
-＃ 目錄
-
-- [Awesome NoCode / LowCode](#awesome-nocode--lowcode)
-- [目錄](#table-of-contents)
-  - [分析](#analytics)
-  - [自動化](#automation)
-  - [商業應用](#business-apps)
-  - [聊天機器人](#chatbots)
-  - [協作](#collaboration)
-  - [客戶關係管理](#crm)
-  - [數據和抓取](#data--scraping)
-  - [數據庫](#數據庫)
-  - [設計](#design)
-  - [電子商務](#ecommerce)
-  - [電子郵件](#email)
-  - [表格](#forms)
-  - [遊戲](#games)
-  - [內部](#internal)
-  - [登陸頁面](#landing-pages)
-  - [機器學習](#machine-learning)
-  - [營銷](#marketing)
-  - [移動應用](#mobile-apps)
-  - [付款](#payments)
-  - [刮板]（#刮板）
-  - [視頻](#視頻)
-  - [可視化編程](#visual-programming)
-  - [語音](#voice)
-  - [虛擬現實](#vr)
-  - [網絡應用](#web-apps)
-  - [網站](#websites)
-  - [未分類](#uncategorized)
-  - [教程](#tutorials)
-  - [學習](#learning)
-  - [博客文章](#blog-posts)
-- [貢獻](#contribute)
-- [許可證](#license)
 
 ---
 
