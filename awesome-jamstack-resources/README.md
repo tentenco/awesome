@@ -1,37 +1,5 @@
 # Awesome-jamstack-resources
 
-![JAMSTACK IMG](https://res.cloudinary.com/cloudinary-marketing/image/upload/v1/Web_Assets/blog/JAMstack-Delivers-v1.png)
-
-  <p>
-    <b>
-      這是使用 <a href="https://jamstack.org">JAMStack</a> 的工具精選列表：一種用於創建快速、安全和動態網站的現代 Web 開發架構。
-    </b>
-  </p>
-  <p>
-    <i>
-      想貢獻一些工具/資源嗎？驚人的！請在投稿前閱讀<a href="contributing.md">投稿指南</a>。
-    </i>
-  </p>
-
-＃＃ 表中的內容
-
-- [官方資源網站](#official)
-- [Jamstack 站點展示](#jamstack-sites-showcase)
-- [平台](#platforms)
-- [靜態站點生成器](#static-site-generators)
-- [CMS](#cms)
-- [API](#api)
-  - [認證](#authentication)
-  - [評論](#comments)
-  - [表格](#forms)
-  - [電子商務](#e-commerce)
-  - [搜索](#搜索)
-  - [數據庫](#數據庫)
-- [無服務器]（#無服務器）
-- [視頻](#videos)
-- [教程/文章](#tutorials--articles)
-- [書籍](#books)
-
 ---
 
 ＃＃ 官方的
