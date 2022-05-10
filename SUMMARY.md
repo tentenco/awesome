@@ -7,7 +7,6 @@
   * [Awesome Webflow](design/awesome-webflow/README.md)
     * [webflow-masterclass](design/awesome-webflow/webflow-masterclass/README.md)
       * [Webflow + Firebase用戶認證](design/awesome-webflow/webflow-masterclass/Webflow\_Firebase\_User\_Authentication/README.md)
-  * [Awesome Typography](design/awesome-typography-1.md)
 * [devops](devops/README.md)
   * [Awesome CMS](devops/awesome-cms/README.md)
   * [awesome-headless-cms](devops/awesome-headless-cms/README.md)
