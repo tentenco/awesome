@@ -1,4 +1,4 @@
-# Awesome ADTech 廣告技術
+# Awesome ADTech
 
 __描述廣告背後技術的精選列表！__
 
