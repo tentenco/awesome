@@ -1,3 +1,4 @@
+# Awesome VS Code
 
 <br/>
 <div align="center">
