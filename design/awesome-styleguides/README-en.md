@@ -1,132 +1,128 @@
-<div align="center">
-<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/0c8952c98f9ac61b23148f9cb64abbcb34be7b16/media/logo.svg" alt="Awesome">
-</div>
+# README-en
+
+![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/0c8952c98f9ac61b23148f9cb64abbcb34be7b16/media/logo.svg)
+
+## Styleguides
+
+\
+\
 
 
-<h1 align="center"><sub>Styleguides</sub></h1>
+* [**AgnosticUI**](https://www.agnosticui.com) — Accessible CSS component primitives that work with React, Vue 3, Svelte, and Angular.
+* [**Apple Human Interface Guidelines**](https://developer.apple.com/design/human-interface-guidelines/) — Information for designing apps that integrate seamlessly with Apple platforms.
+* [**Atlassian Design**](https://atlassian.design) — Design, develop, and deliver.
+* [**Audi**](https://www.audi.com/ci/en/intro/brand-appearance.html) — Attitude Brand Appearance.
+* [**Auth0**](https://auth0-cosmos.now.sh) — Cosmos is a Design System to build Auth0 products.
+* [**Disqus**](https://disqus.com/pages/style-guide/) — colors, typogrophy and Disqus logo.
+* [**Duo Lingo**](https://www.duolingo.com/design/) — Duo Lingo design.
+* [**Elastic UI**](https://elastic.github.io/eui/#/) — Elastic UI Framework
+* [**Helpscout**](https://style.helpscout.com) — Helpscout style guide.
+* [**IBM Design**](https://www.ibm.com/design/language/resources/) — Tools that help you work smarter, not harder.
+* [**MailChimp**](http://ux.mailchimp.com/patterns) — The Pattern Library.
+* [**MarvelApp**](https://marvelapp.com/styleguide/overview/introduction) — MarvelApp design system.
+* [**Material Design**](https://material.io/design) — Create intuitive and beautiful products with Material Design.
+* [**Material UI**](https://material-ui.com) — React components that implement Google's Material Design.
+* [**Microsoft Fluent Design**](https://www.microsoft.com/design/fluent/) — No need to start from scratch.
+* [**Microsoft UWP Design and UI**](https://docs.microsoft.com/en-us/windows/uwp/design/) — Design and code Windows apps
+* [**Mozilla**](https://www.mozilla.org/en-US/styleguide/) — Style Guides.
+* [**Nebular**](https://akveo.github.io/nebular/) — Angular 8: UI Kit.
+* [**Operational UI**](https://operational-ui.netlify.com) — Operational UI Components
+* [**Pajamas**](https://design.gitlab.com) — Resources, components, and design guidelines behind GitLab.
+* [**Pluralsight Design**](https://design-system.pluralsight.com) — Pluralsight design system.
+* [**Polaris**](https://polaris.shopify.com) — Shopify’s product component library.
+* [**Priceline One**](https://pricelinelabs.github.io) — Priceline Design System.
+* [**Primer**](https://primer.style) — the CSS design system that powers GitHub.
+* [**Royal Canin**](http://developer.royalcanin.com) — Royal Canin design system.
+* [**Salesforce**](http://sfdc-styleguide.herokuapp.com) — Lightning design system.
+* [**SAP Fiori Fundamentals**](https://sap.github.io/fundamental/) — A light-weight presentation layer that can be used with your UI framework of choice.
+* [**Semantic UI**](https://semantic-ui.com) — User Interface is the language of the web.
+* [**Starbucks Pattern Library**](https://www.starbucks.com/developer/pattern-library/) — Building blocks of app.starbucks.com
+* [**Thumbprint**](https://thumbprint.design) — Assets for building high-quality, consistent user experiences at Thumbtack.
 
-<br />
-<br />
-
-- [__AgnosticUI__](https://www.agnosticui.com/) &mdash; Accessible CSS component primitives that work with React, Vue 3, Svelte, and Angular.
-- [__Apple Human Interface Guidelines__](https://developer.apple.com/design/human-interface-guidelines/) &mdash; Information for designing apps that integrate seamlessly with Apple platforms.
-- [__Atlassian Design__](https://atlassian.design/) &mdash; Design, develop, and deliver.
-- [__Audi__](https://www.audi.com/ci/en/intro/brand-appearance.html) &mdash; Attitude Brand Appearance.
-- [__Auth0__](https://auth0-cosmos.now.sh/) &mdash; Cosmos is a Design System to build Auth0 products.
-- [__Disqus__](https://disqus.com/pages/style-guide/) &mdash; colors, typogrophy and Disqus logo.
-- [__Duo Lingo__](https://www.duolingo.com/design/) &mdash; Duo Lingo design.
-- [__Elastic UI__](https://elastic.github.io/eui/#/) &mdash; Elastic UI Framework
-- [__Helpscout__](https://style.helpscout.com/) &mdash; Helpscout style guide.
-- [__IBM Design__](https://www.ibm.com/design/language/resources/) &mdash; Tools that help you work smarter, not harder.
-- [__MailChimp__](http://ux.mailchimp.com/patterns) &mdash; The Pattern Library.
-- [__MarvelApp__](https://marvelapp.com/styleguide/overview/introduction) &mdash; MarvelApp design system.
-- [__Material Design__](https://material.io/design) &mdash; Create intuitive and beautiful products with Material Design.
-- [__Material UI__](https://material-ui.com/) &mdash; React components that implement Google's Material Design.
-- [__Microsoft Fluent Design__](https://www.microsoft.com/design/fluent/) &mdash; No need to start from scratch.
-- [__Microsoft UWP Design and UI__](https://docs.microsoft.com/en-us/windows/uwp/design/) &mdash; Design and code Windows apps
-- [__Mozilla__](https://www.mozilla.org/en-US/styleguide/) &mdash; Style Guides.
-- [__Nebular__](https://akveo.github.io/nebular/) &mdash; Angular 8: UI Kit.
-- [__Operational UI__](https://operational-ui.netlify.com/) &mdash; Operational UI Components
-- [__Pajamas__](https://design.gitlab.com/) &mdash; Resources, components, and design guidelines behind GitLab.
-- [__Pluralsight Design__](https://design-system.pluralsight.com/) &mdash; Pluralsight design system.
-- [__Polaris__](https://polaris.shopify.com/) &mdash; Shopify’s product component library.
-- [__Priceline One__](https://pricelinelabs.github.io/) &mdash; Priceline Design System.
-- [__Primer__](https://primer.style/) &mdash; the CSS design system that powers GitHub.
-- [__Royal Canin__](http://developer.royalcanin.com/) &mdash; Royal Canin design system.
-- [__Salesforce__](http://sfdc-styleguide.herokuapp.com/) &mdash; Lightning design system.
-- [__SAP Fiori Fundamentals__](https://sap.github.io/fundamental/) &mdash; A light-weight presentation layer that can be used with your UI framework of choice.
-- [__Semantic UI__](https://semantic-ui.com/) &mdash; User Interface is the language of the web.
-- [__Starbucks Pattern Library__](https://www.starbucks.com/developer/pattern-library/) &mdash; Building blocks of app.starbucks.com
-- [__Thumbprint__](https://thumbprint.design/) &mdash; Assets for building high-quality, consistent user experiences at Thumbtack.
-
-<br />
-<br />
+\
+\
 
 
-<h1 align="center"><sub>Storybooks</sub></h1>
+## Storybooks
 
-<br />
-<br />
-
-
-- [__Algolia InstantSearch__](https://community.algolia.com/react-instantsearch/storybook/) &mdash; Lightning-fast, hyper-configurable search.
-- [__Appbase Maps__](https://opensource.appbase.io/playground/) &mdash; A storybook playground for ReactiveMaps and ReactiveSearch.
-- [__Artsy Force__](https://artsy.github.io/reaction/) &mdash; Artsy's "Force" component library.
-- [__Buffer Components__](https://bufferapp.github.io/buffer-components/) &mdash; A collection of Buffer UI React components.
-- [__Carbon Components__](http://react.carbondesignsystem.com) &mdash; IBM's Carbon Design System implemented in React.
-- [__Cosmos__](https://auth0-cosmos.now.sh/sandbox/) &mdash; A Design System For Auth0 Products.
-- [__Coursera__](https://building.coursera.org/coursera-ui/) &mdash; Coursera UI component library.
-- [__Fyndiq__](https://fyndiq.github.io/fyndiq-ui/) &mdash; Fyndiq UI Component library.
-- [__Grafana UI__](https://github.com/grafana/grafana/tree/master/packages/grafana-ui) &mdash; Grafana UI components library.
-- [__Grommet__](https://storybook.grommet.io/) &mdash; Styled components for Reactjs.
-- [__GumGum__](https://storybook.gumgum.com) &mdash; GumGum (Computer Vision Company) Component library.
-- [__Hack Oregon__](https://hackoregon.github.io/component-library/) &mdash; Official component library and storybook for Hack Oregon.
-- [__Lonely Planet__](https://lonelyplanet.github.io/backpack-ui/) &mdash; All the tools you need to build the Lonely Planet UI experience.
-- [__Lucid UI__](https://appnexus.github.io/lucid/) &mdash; Component and charts library by AppNexus.
-- [__MockingBot__](https://ibot.guide) &mdash; MockingBot UI component library(ibot).
-- [__Quran.com__](https://quran.github.io/common-components/) &mdash; Component library for Quran.com, Quranicaudio.com and Salah.com.
-- [__React Event Timeline__](https://rcdexta.github.io/react-event-timeline/) &mdash; Event timeline component.
-- [__React Native Web__](https://necolas.github.io/react-native-web/storybook/) &mdash; Storybook demo for React Native Web.
-- [__Semantic-UI__](https://white-rabbit-japan.github.io/Semantic-UI-React-Storybook/) &mdash; Storybook for Semantic-UI React components.
-- [__Tachyons Components__](https://www.tachyonstemplates.com/components/) &mdash; A searchable directory of Tachyons Components.
-- [__TodoMVC with Specs__](https://thorjarhun.github.io/react-storybook-todolist/) &mdash; Todo app Storybook with built-in unit tests.
-- [__Trunx__](https://g14n.info/trunx) &mdash; Super Saiyan react components, son of awesome Bulma.
-- [__Uber React-Vis__](https://uber.github.io/react-vis/website/dist/storybook/index.html) &mdash; A composable charting library.
-- [__Wix Style React__](https://github.com/wix/wix-style-react) &mdash; Components that conform to Wix Style.
+\
+\
 
 
-<br />
-<br />
+* [**Algolia InstantSearch**](https://community.algolia.com/react-instantsearch/storybook/) — Lightning-fast, hyper-configurable search.
+* [**Appbase Maps**](https://opensource.appbase.io/playground/) — A storybook playground for ReactiveMaps and ReactiveSearch.
+* [**Artsy Force**](https://artsy.github.io/reaction/) — Artsy's "Force" component library.
+* [**Buffer Components**](https://bufferapp.github.io/buffer-components/) — A collection of Buffer UI React components.
+* [**Carbon Components**](http://react.carbondesignsystem.com) — IBM's Carbon Design System implemented in React.
+* [**Cosmos**](https://auth0-cosmos.now.sh/sandbox/) — A Design System For Auth0 Products.
+* [**Coursera**](https://building.coursera.org/coursera-ui/) — Coursera UI component library.
+* [**Fyndiq**](https://fyndiq.github.io/fyndiq-ui/) — Fyndiq UI Component library.
+* [**Grafana UI**](https://github.com/grafana/grafana/tree/master/packages/grafana-ui) — Grafana UI components library.
+* [**Grommet**](https://storybook.grommet.io) — Styled components for Reactjs.
+* [**GumGum**](https://storybook.gumgum.com) — GumGum (Computer Vision Company) Component library.
+* [**Hack Oregon**](https://hackoregon.github.io/component-library/) — Official component library and storybook for Hack Oregon.
+* [**Lonely Planet**](https://lonelyplanet.github.io/backpack-ui/) — All the tools you need to build the Lonely Planet UI experience.
+* [**Lucid UI**](https://appnexus.github.io/lucid/) — Component and charts library by AppNexus.
+* [**MockingBot**](https://ibot.guide) — MockingBot UI component library(ibot).
+* [**Quran.com**](https://quran.github.io/common-components/) — Component library for Quran.com, Quranicaudio.com and Salah.com.
+* [**React Event Timeline**](https://rcdexta.github.io/react-event-timeline/) — Event timeline component.
+* [**React Native Web**](https://necolas.github.io/react-native-web/storybook/) — Storybook demo for React Native Web.
+* [**Semantic-UI**](https://white-rabbit-japan.github.io/Semantic-UI-React-Storybook/) — Storybook for Semantic-UI React components.
+* [**Tachyons Components**](https://www.tachyonstemplates.com/components/) — A searchable directory of Tachyons Components.
+* [**TodoMVC with Specs**](https://thorjarhun.github.io/react-storybook-todolist/) — Todo app Storybook with built-in unit tests.
+* [**Trunx**](https://g14n.info/trunx) — Super Saiyan react components, son of awesome Bulma.
+* [**Uber React-Vis**](https://uber.github.io/react-vis/website/dist/storybook/index.html) — A composable charting library.
+* [**Wix Style React**](https://github.com/wix/wix-style-react) — Components that conform to Wix Style.
+
+\
+\
 
 
-<h1 align="center"><sub>Resources</sub></h1>
+## Resources
 
-<br />
-<br />
-
-
-- [__AirBnB Design__](https://airbnb.design)
-- [__ArtLebedev__](https://www.artlebedev.com/)
+\
+\
 
 
-<br />
-<br />
+* [**AirBnB Design**](https://airbnb.design)
+* [**ArtLebedev**](https://www.artlebedev.com)
+
+\
+\
 
 
-<h1 align="center"><sub>Videos</sub></h1>
+## Videos
 
-<br />
-<br />
-
-
-- [__System of Systems__](https://vimeo.com/262959101) &mdash; [*Nathan Curtis*](https://twitter.com/nathanacurtis)
-- [__When We Use Systems__](https://vimeo.com/262959714) &mdash; [*Karri Saarinen*](https://twitter.com/karrisaarinen?lang=en)
+\
+\
 
 
-<br />
-<br />
+* [**System of Systems**](https://vimeo.com/262959101) — [_Nathan Curtis_](https://twitter.com/nathanacurtis)
+* [**When We Use Systems**](https://vimeo.com/262959714) — [_Karri Saarinen_](https://twitter.com/karrisaarinen?lang=en)
+
+\
+\
 
 
-<h1 align="center"><sub>Comparators</sub></h1>
+## Comparators
 
-<br />
-<br />
-
-
-- [__Adele__](https://adele.uxpin.com/) &mdash; Repository of publicly available design systems and pattern libraries by [*UXPin*](https://www.uxpin.com/).
-- [__awesome-design-systems__](https://github.com/alexpate/awesome-design-systems) &mdash; A collection of awesome design systems.
-- [__Design System Repo__](https://designsystemsrepo.com/design-systems/) &mdash; Design Systems Gallery
-- [__styleguides.io__](http://styleguides.io/) &mdash; Website Style Guide Resources.
+\
+\
 
 
-<br />
-<br />
+* [**Adele**](https://adele.uxpin.com) — Repository of publicly available design systems and pattern libraries by [_UXPin_](https://www.uxpin.com).
+* [**awesome-design-systems**](https://github.com/alexpate/awesome-design-systems) — A collection of awesome design systems.
+* [**Design System Repo**](https://designsystemsrepo.com/design-systems/) — Design Systems Gallery
+* [**styleguides.io**](http://styleguides.io) — Website Style Guide Resources.
+
+\
+\
 
 
-<h1 align="center"><sub>Tools</sub></h1>
+## Tools
 
-<br />
-<br />
+\
+\
 
 
-- [__react-sketchapp__](https://github.com/airbnb/react-sketchapp) &mdash; render React components to Sketch
+* [**react-sketchapp**](https://github.com/airbnb/react-sketchapp) — render React components to Sketch
