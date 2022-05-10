@@ -1,7 +1,8 @@
-# 很棒的排版 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-關於數字排版的精選列表。
+# Awesome Typography
 
-＃＃ 內容
+關於 Typography 的精選列表。
+
+### 內容
 
 - [規格](#specifications)
 - [OpenType](#opentype)
