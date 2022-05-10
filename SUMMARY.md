@@ -26,6 +26,7 @@
   * [webflow-masterclass](design/webflow-masterclass/README.md)
     * [Webflow + Firebase用戶認證](design/webflow-masterclass/Webflow\_Firebase\_User\_Authentication/README.md)
 * [Devops](devops/README.md)
+  * [Mega Awesome List](devops/mega-awesome-list.md)
   * [Awesome CMS](devops/awesome-cms/README.md)
   * [awesome-headless-cms](devops/awesome-headless-cms/README.md)
     * [readme-en](devops/awesome-headless-cms/readme-en.md)
