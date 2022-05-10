@@ -1,74 +1,90 @@
-- 📂 __awesome__
-   - 📂 __Design__
-     - 📄 [README.md](Design/README.md)
-     - 📂 __awesome\-typography__
-       - 📄 [README\-en.md](Design/awesome-typography/README-en.md)
-       - 📄 [README.md](Design/awesome-typography/README.md)
-     - 📂 __awesome\-webflow__
-       - 📄 [README.md](Design/awesome-webflow/README.md)
-     - 📂 __webflow\-masterclass__
-       - 📄 [README.md](Design/webflow-masterclass/README.md)
-       - 📂 __Webflow\_Firebase\_User\_Authentication__
-         - 📄 [README.md](Design/webflow-masterclass/Webflow_Firebase_User_Authentication/README.md)
-         - 📄 [webflow\-custom\-code\-before\-body.html](Design/webflow-masterclass/Webflow_Firebase_User_Authentication/webflow-custom-code-before-body.html)
-         - 📄 [webflow\-firebase\-user\-authentication.js](Design/webflow-masterclass/Webflow_Firebase_User_Authentication/webflow-firebase-user-authentication.js)
-   - 📄 [README.md](README.md)
-   - 📄 [SUMMARY.md](SUMMARY.md)
-   - 📂 __awesome\-notion__
-   - 📂 __devops__
-     - 📄 [README.md](devops/README.md)
-     - 📂 __awesome\-cms__
-       - 📄 [README.md](devops/awesome-cms/README.md)
-     - 📂 __awesome\-headless\-cms__
-       - 📄 [README.md](devops/awesome-headless-cms/README.md)
-       - 📂 __documents__
-         - 📄 [EffectiveUI\_HeadlessCMS.pdf](devops/awesome-headless-cms/documents/EffectiveUI_HeadlessCMS.pdf)
-         - 📄 [the\-rise\-of\-the\-headless\-cms.pdf](devops/awesome-headless-cms/documents/the-rise-of-the-headless-cms.pdf)
-       - 📄 [readme\-en.md](devops/awesome-headless-cms/readme-en.md)
-     - 📂 __awesome\-jamstack\-resources__
-       - 📄 [README.md](devops/awesome-jamstack-resources/README.md)
-       - 📄 [readme\-en.md](devops/awesome-jamstack-resources/readme-en.md)
-     - 📂 __awesome\-vercel__
-       - 📄 [README.md](devops/awesome-vercel/README.md)
-       - 📄 [readme\-en.md](devops/awesome-vercel/readme-en.md)
-   - 📂 __marketing__
-     - 📄 [README.md](marketing/README.md)
-     - 📂 __awesome\-adtech__
-       - 📄 [README.md](marketing/awesome-adtech/README.md)
-       - 📄 [readme\-en.md](marketing/awesome-adtech/readme-en.md)
-     - 📂 __awesome\-hubspot__
-       - 📄 [README.md](marketing/awesome-hubspot/README.md)
-     - 📂 __awesome\-marketing__
-       - 📄 [README.md](marketing/awesome-marketing/README.md)
-     - 📂 __awesome\-technical\-seo__
-       - 📄 [README.md](marketing/awesome-technical-seo/README.md)
-     - 📂 __marketing\-for\-engineers__
-       - 📄 [README\-en.md](marketing/marketing-for-engineers/README-en.md)
-       - 📄 [README.md](marketing/marketing-for-engineers/README.md)
-     - 📂 __tech\-marketer__
-       - 📄 [README.md](marketing/tech-marketer/README.md)
-   - 📂 __nocode__
-     - 📄 [README.md](nocode/README.md)
-     - 📂 __awesome\-nocode\-lowcode__
-       - 📄 [README.md](nocode/awesome-nocode-lowcode/README.md)
-       - 📄 [readme\-en.md](nocode/awesome-nocode-lowcode/readme-en.md)
-   - 📂 __tools__
-     - 📄 [README.md](tools/README.md)
-     - 📂 __awesome\-mac__
-       - 📄 [LICENSE](tools/awesome-mac/LICENSE)
-       - 📄 [README.md](tools/awesome-mac/README.md)
-       - 📂 __build__
-         - 📄 [build.js](tools/awesome-mac/build/build.js)
-         - 📄 [favicon.ico](tools/awesome-mac/build/favicon.ico)
-         - 📄 [template.ejs](tools/awesome-mac/build/template.ejs)
-       - 📄 [editor\-plugin\-zh.md](tools/awesome-mac/editor-plugin-zh.md)
-       - 📄 [editor\-plugin.md](tools/awesome-mac/editor-plugin.md)
-       - 📄 [package\-lock.json](tools/awesome-mac/package-lock.json)
-       - 📄 [package.json](tools/awesome-mac/package.json)
-       - 📄 [readme\-zh.md](tools/awesome-mac/readme-zh.md)
-     - 📂 __awesome\-notion__
-       - 📄 [README.md](tools/awesome-notion/README.md)
-       - 📄 [readme\-en.md](tools/awesome-notion/readme-en.md)
-     - 📂 __awesome\-tools\-for\-startups__
-       - 📄 [README.md](tools/awesome-tools-for-startups/README.md)
-       - 📄 [readme\-en.md](tools/awesome-tools-for-startups/readme-en.md)
+awesome/
+┣ Design/
+┃ ┣ awesome-typography/
+┃ ┃ ┣ .travis.yml
+┃ ┃ ┣ README-en.md
+┃ ┃ ┗ README.md
+┃ ┣ awesome-webflow/
+┃ ┃ ┣ webflow-masterclass/
+┃ ┃ ┃ ┣ README.md
+┃ ┃ ┃ ┗ webflow-+-firebase-yong-hu-ren-zheng.md
+┃ ┃ ┗ README.md
+┃ ┣ webflow-masterclass/
+┃ ┃ ┣ Webflow_Firebase_User_Authentication/
+┃ ┃ ┃ ┣ README.md
+┃ ┃ ┃ ┣ webflow-custom-code-before-body.html
+┃ ┃ ┃ ┗ webflow-firebase-user-authentication.js
+┃ ┃ ┣ .gitignore
+┃ ┃ ┗ README.md
+┃ ┗ README.md
+┣ awesome-notion/
+┣ devops/
+┃ ┣ awesome-cms/
+┃ ┃ ┣ .all-contributorsrc
+┃ ┃ ┣ .eslintrc.json
+┃ ┃ ┣ .gitignore
+┃ ┃ ┣ .nvmrc
+┃ ┃ ┗ README.md
+┃ ┣ awesome-headless-cms/
+┃ ┃ ┣ .github/
+┃ ┃ ┃ ┣ workflows/
+┃ ┃ ┃ ┃ ┗ main.yml
+┃ ┃ ┃ ┗ FUNDING.yml
+┃ ┃ ┣ documents/
+┃ ┃ ┃ ┣ EffectiveUI_HeadlessCMS.pdf
+┃ ┃ ┃ ┗ the-rise-of-the-headless-cms.pdf
+┃ ┃ ┣ README.md
+┃ ┃ ┗ readme-en.md
+┃ ┣ awesome-jamstack-resources/
+┃ ┃ ┣ README.md
+┃ ┃ ┗ readme-en.md
+┃ ┣ awesome-vercel/
+┃ ┃ ┣ README.md
+┃ ┃ ┗ readme-en.md
+┃ ┗ README.md
+┣ marketing/
+┃ ┣ awesome-adtech/
+┃ ┃ ┣ README.md
+┃ ┃ ┗ readme-en.md
+┃ ┣ awesome-hubspot/
+┃ ┃ ┗ README.md
+┃ ┣ awesome-marketing/
+┃ ┃ ┗ README.md
+┃ ┣ awesome-technical-seo/
+┃ ┃ ┗ README.md
+┃ ┣ marketing-for-engineers/
+┃ ┃ ┣ README-en.md
+┃ ┃ ┗ README.md
+┃ ┣ tech-marketer/
+┃ ┃ ┗ README.md
+┃ ┗ README.md
+┣ nocode/
+┃ ┣ awesome-nocode-lowcode/
+┃ ┃ ┣ .travis.yml
+┃ ┃ ┣ README.md
+┃ ┃ ┗ readme-en.md
+┃ ┗ README.md
+┣ tools/
+┃ ┣ awesome-mac/
+┃ ┃ ┣ build/
+┃ ┃ ┃ ┣ build.js
+┃ ┃ ┃ ┣ favicon.ico
+┃ ┃ ┃ ┗ template.ejs
+┃ ┃ ┣ .gitattributes
+┃ ┃ ┣ LICENSE
+┃ ┃ ┣ README.md
+┃ ┃ ┣ editor-plugin-zh.md
+┃ ┃ ┣ editor-plugin.md
+┃ ┃ ┣ package-lock.json
+┃ ┃ ┣ package.json
+┃ ┃ ┗ readme-zh.md
+┃ ┣ awesome-notion/
+┃ ┃ ┣ README.md
+┃ ┃ ┗ readme-en.md
+┃ ┣ awesome-tools-for-startups/
+┃ ┃ ┣ .gitignore
+┃ ┃ ┣ README.md
+┃ ┃ ┗ readme-en.md
+┃ ┗ README.md
+┣ .gitignore
+┗ README.md
