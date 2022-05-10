@@ -1,5 +1,0 @@
-name = "Ketchup"
-description = "Developer-first CMS built with Go and React. Version-controlled templates, complete JSON API, built-in HTTPS and HTTP/2, fast and easy to use."
-url = "https://ketchuphq.com"
-github_repo = "ketchuphq/ketchup"
-language = "go"

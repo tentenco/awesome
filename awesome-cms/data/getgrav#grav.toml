@@ -1,5 +1,0 @@
-name = "Grav"
-description = "Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS."
-url = "http://getgrav.org"
-github_repo = "getgrav/grav"
-language = "php"

@@ -1,5 +1,0 @@
-name = "Publify"
-description = "A self hosted Web publishing platform on Rails."
-url = "http://publify.co"
-github_repo = "publify/publify"
-language = "ruby"

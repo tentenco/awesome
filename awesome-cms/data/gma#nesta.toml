@@ -1,5 +1,0 @@
-name = "Nesta"
-description = "A lightweight CMS, implemented in Sinatra."
-url = "http://nestacms.com"
-github_repo = "gma/nesta"
-language = "ruby"

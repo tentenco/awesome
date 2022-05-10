@@ -1,5 +1,0 @@
-name = "Plone CMS"
-description = "Plone is a user friendly Content Management System running on top of Python, Zope and the CMF."
-url = "http://plone.org"
-github_repo = "plone/Plone"
-language = "python"
