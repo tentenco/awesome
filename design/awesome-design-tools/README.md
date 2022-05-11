@@ -1,4 +1,4 @@
-# 很棒的設計工具
+# Awesome Design Tools
 <div class="hidden-in-page">
 
 - [真棒設計插件](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)
@@ -1226,177 +1226,172 @@ Drama、Principle、Framer、Invision Studio、Flinto 也屬於 UI 和 UX 動畫
 
 </文章>
 
-<article id="附錄">
 
-### 附錄（參考和靈感）
 
-Awesome Design Tools & Plugins 由 Flawless 團隊的 [Lisa Dziuba](https://twitter.com/LisaDziuba) 和 [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) 策劃。它的靈感來自設計社區的文章和我們的好朋友 Graeme Fulton 製作的 Prototypr.io Toolbox。如果你發現了一些很棒的設計工具，請[推薦](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution_Guidelines.md)。感謝您使這個項目很棒:)
-
-</文章>
 
 # Awesome-Design-Conferences
 
-## 很棒的設計會議
+## Awesome Design Conferences
 
-* [很棒的設計工具](https://github.com/LisaDziuba/Awesome-Design-Tools)
-* [真棒設計插件](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)
+* [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+* [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)
 * [Awesome Design UI Kits](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-UI-Kits.md)
 
 ![Awesome-Design-Conferences](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Awesome%20Design%20Conferences.png)
 
-![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen .svg)
+![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-### 如何使用和貢獻
+### How to Use and Contribute
 
-* 現在您在 **Awesome Design Conferences** 部分，如果您需要工具和插件 - 轉到 [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) 和 [Awesome Design Plugins ]（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md）。
-* 要查找會議，請瀏覽目錄或搜索關鍵字（例如，“UX”、“原型設計”）。
-* 在 Twitter 上詢問 [Lisa](https://twitter.com/LisaDziuba)。
+* Now you are in **Awesome Design Conferences** section, if you need tools & plugins — go to [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) & [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md).
+* To find the conference, go through the Table of Contents or search for a keyword (for example, "UX", "prototyping").
+* Ask [Lisa](https://twitter.com/LisaDziuba) on Twitter.
 
-如果你發現了一些很棒的設計會議，只需發送關於我們的 [貢獻指南](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution\_Guidelines.md) 的請求請求（他們'很簡單，請看一下）。設計工具應提交 [這裡](https://github.com/LisaDziuba/Awesome-Design-Tools)，插件 - [這裡](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/ master/Awesome-Design-Plugins.md)，以及此文件中的會議。並且不要忘記在每次會議結束時添加地點和日期。現在我很想看看你的建議！
+If you found some great design conference, just send a Pull Request with respect to our [Contribution Guidelines](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution\_Guidelines.md) (they're very simple, please take a look). Design tools should be submitted [here](https://github.com/LisaDziuba/Awesome-Design-Tools), plugins - [here](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md), and conferences in this file. And don't forget to add the location and date at the end of each conference. Now I'd love to see your suggestions!
 
-＃＃＃ 表中的內容
+### Table of Content
 
-* [一月](Awesome-Design-Conferences.md#january)
-* [二月](Awesome-Design-Conferences.md#february)
-* [三月](Awesome-Design-Conferences.md#march)
-* [四月](Awesome-Design-Conferences.md#april)
-* [五月](Awesome-Design-Conferences.md#may)
-* [六月](Awesome-Design-Conferences.md#june)
-* [七月](Awesome-Design-Conferences.md#july)
-* [八月](Awesome-Design-Conferences.md#august)
-* [九月](Awesome-Design-Conferences.md#september)
-* [十月](Awesome-Design-Conferences.md#october)
-* [十二月](Awesome-Design-Conferences.md#december)
+* [January](Awesome-Design-Conferences.md#january)
+* [February](Awesome-Design-Conferences.md#february)
+* [March](Awesome-Design-Conferences.md#march)
+* [April](Awesome-Design-Conferences.md#april)
+* [May](Awesome-Design-Conferences.md#may)
+* [June](Awesome-Design-Conferences.md#june)
+* [July](Awesome-Design-Conferences.md#july)
+* [August](Awesome-Design-Conferences.md#august)
+* [September](Awesome-Design-Conferences.md#september)
+* [October](Awesome-Design-Conferences.md#october)
+* [December](Awesome-Design-Conferences.md#december)
 
-＃＃＃＃ 一月
+#### January
 
-| 姓名 | 關於 | 日期 | 位置 |
-| -------------------------------------------------- -------------------------------------------------- --------------- | -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ---- | ------------- | ------------------ |
-| 【工作坊：Sketch App 入門】(https://www.sketch.com/community/groups/munich/?event=2020-01-15) | 對 Sketch 感興趣的設計師的聚會。加入它來分享知識、發現技巧、插件和新的工作流程，或者看看其他人如何使用這個強大的工具。| 1 月 15 日 | 德國慕尼黑 |
-| [CLT 素描聚會](https://www.sketch.com/community/groups/charlotte/?event=2020-01-15) | 夏洛特設計師和開發人員的官方 Sketch 聚會。分享知識、交易技巧並了解新的插件和資源。認識當地的設計師和 Sketch 團隊的成員，了解更多關於應用程序的信息，並與志同道合的人一起玩樂。| 1 月 15 日 | 美國夏洛特 |
-| [In/Visible Talks](https://invisibletalks.com/conference-2020/) | 慶祝設計藝術的創意專業人士會議。它側重於關於創意實踐背後的過程、靈感和挑戰的新鮮事物和誠實的談話。| 1 月 16 日 | 美國舊金山 |
-| [素描達拉斯一月聚會活動](https://www.sketch.com/community/groups/dallas/?event=2020-01-21) | 達拉斯設計師和開發人員的官方 Sketch 聚會。分享知識、交易技巧並了解新的插件和資源。結識當地設計師，了解有關該應用程序的更多信息，並與志同道合的人一起玩樂。| 1 月 21 日 | 美國達拉斯 |
-| [Awwwards 東京會議](https://conference.awwwards.com/tokyo/) | 數字思想家會議即將來到東京！它為您帶來用戶體驗、UI 設計、網頁設計與開發、動畫、技術、品牌、趨勢、創意等方面的最熱門話題和最新技術。| 1 月 22 日至 24 日 | 日本東京 |
-| [新冒險](https://newadventuresconf.com/2020/) | 一個數字設計會議，您將在其中探索投機和批判性設計、激進的包容性、氣候、可持續性等等。| 1 月 22 日至 23 日 | 英國諾丁漢 |
-| [工作坊：如何掌握 Sketch & Design Systems](https://www.sketch.com/community/groups/munich/?event=2020-01-23) | 對 Sketch 感興趣的設計師的聚會。分享知識、發現技巧、插件和新的工作流程，或者看看其他人如何使用這個強大的工具。| 1月 23 日 | 德國慕尼黑 |
-| [人性化設計](https://www.meetup.com/figma-africa/events/267044435/) | Figma 的聚會，您將深入了解可用於為用戶創造愉快體驗的認知 UI/UX 原則。| 1 月 25 日 | 尼日利亞拉各斯 |
+| Name                                                                                                                | About                                                                                                                                                                                                                                                          | Dates         | Location           |
+| ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------ |
+| [Workshop: Getting started with Sketch App](https://www.sketch.com/community/groups/munich/?event=2020-01-15)       | a meetup for designers interested in Sketch. Join it to share knowledge, discover tricks, plugins and new workflows or see how others utilise the powerful tool.                                                                                               | January 15    | München, Germany   |
+| [CLT Sketch Meetup](https://www.sketch.com/community/groups/charlotte/?event=2020-01-15)                            | an official Sketch meetup for designers and developers in Charlotte. Share knowledge, trade tips, and hear about new plugins and resources. Meet local designers and members of the Sketch team, learn more about the app and have fun with likeminded people. | January 15    | Charlotte, USA     |
+| [In/Visible Talks](https://invisibletalks.com/conference-2020/)                                                     | a conference for creative professionals that celebrates the art of design. It focuses on fresh takes and honest talks about the process, inspiration, and challenges behind the creative practice.                                                             | January 16    | San Francisco, USA |
+| [Sketch Dallas January Meetup Event](https://www.sketch.com/community/groups/dallas/?event=2020-01-21)              | an official Sketch meetup for designers and developers in Dallas. Share knowledge, trade tips, and hear about new plugins and resources. Meet local designers, learn more about the app and have fun with likeminded people.                                   | January 21    | Dallas, USA        |
+| [Awwwards Conference Tokyo](https://conference.awwwards.com/tokyo/)                                                 | a digital thinkers conference is coming to Tokyo! It brings you the hottest topics and newest technologies on User Experience, UI Design, Web Design and Development, Animation, Technology, Branding, Trends, Creativity and much more.                       | January 22-24 | Tokyo, Japan       |
+| [New Adventures](https://newadventuresconf.com/2020/)                                                               | a digital design conference where you'll explore speculative and critical design, radical inclusivity, climate, sustainability, and much more.                                                                                                                 | January 22-23 | Nottingham, UK     |
+| [Workshop: How to master Sketch & Design Systems](https://www.sketch.com/community/groups/munich/?event=2020-01-23) | a meetup for designers interested in Sketch. Share knowledge, discover tricks, plugins and new workflows or see how others utilise the powerful tool.                                                                                                          | January 23    | München, Germany   |
+| [Humanising Design](https://www.meetup.com/figma-africa/events/267044435/)                                          | Figma's meetup where you'll dive into cognitive UI/UX principles that can be used to create delightful experiences for users.                                                                                                                                  | January 25    | Lagos, Nigeria     |
 
-#### 二月
+#### February
 
-| 姓名 | 關於 | 日期 | 位置 |
-| -------------------------------------------------- -------------------------------------------------- --- | -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------- | -------------- | ---------------------- |
-| [IxDA](https://interaction20.ixda.org) | 旨在激發世界各地設計師靈感的研討會、講座和實踐經驗的結合。它匯集了設計、科學、哲學、心理學和商業領域最聰明的人才。| 2 月 2 日至 7 日 | 意大利米蘭 |
-| [暫停節](https://www.pausefest.com.au) | 一個商業和創造力的節日，其使命是將多樣化的智慧融合在一起，為下一代提供動力。| 2 月 5 日至 7 日 | 澳大利亞墨爾本 |
-| [成果](http://outcomeconf.com) | 從講故事的角度討論初創公司、產品、用戶體驗和設計的會議。| 2 月 8 日 | 印度昌迪加爾 |
-| [素描達拉斯二月聚會活動](https://www.sketch.com/community/groups/dallas/?event=2020-02-11) | 達拉斯設計師和開發人員的官方 Sketch 聚會。分享知識、交易技巧並了解新的插件和資源。結識當地設計師，了解有關該應用程序的更多信息，並與志同道合的人一起玩樂。| 2 月 11 日 | 美國達拉斯 |
-| [全新：第一輪](https://underconsideration.com/firstround/) | 為期一天的原創演示展示，展示了對徽標、標識和品牌項目的初步設計探索。| 2 月 14 日 | 美國波特蘭 |
-| [Figma Africa Enugu Meetup](https://www.meetup.com/figma-africa/events/266832410/) | Figma 的活動，您將探索人們可以去的地方，並最終為他們的設計獲取資源和靈感。| 2 月 15 日 | 尼日利亞拉各斯 |
-| [UXistanbul](https://uxistanbul.org) | 土耳其第一次 UX 會議，匯集了來自世界領先公司的 UX 和可用性專業人士在伊斯坦布爾分享他們的經驗。| 2 月 18 日 | 土耳其伊斯坦布爾 |
-| [阿姆斯特丹 Awwwwards 會議](https://conference.awwwards.com/amsterdam) | 面向設計師、開發人員和數字夢想家的數字設計頒獎平台。它為您帶來用戶體驗、UI 設計、網頁設計與開發、動畫、技術、品牌、趨勢、創意等方面的最熱門話題和最新技術。| 2 月 19 日至 21 日 | 荷蘭阿姆斯特丹 |
-| [Mouvo](https://mouvo.cz) | 一個展示各種形式的動態設計的節日——作為一個創意領域以及個人表達的出口。| 2 月 21 日至 22 日 | 捷克共和國布拉格 |
-| [FITC 阿姆斯特丹 2020](https://fitc.ca/event/am20/) | 開創性的設計和技術活動，關於創新、設計和介於兩者之間的所有酷事物的未來。| 2 月 24 日至 25 日 | 荷蘭阿姆斯特丹 |
+| Name                                                                                                    | About                                                                                                                                                                                                                                                                    | Dates          | Location               |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ---------------------- |
+| [IxDA](https://interaction20.ixda.org)                                                                  | a mix of workshops, talks, and hands-on experiences aimed at inspiring designers around the world. It brings together the brightest minds in design, science, philosophy, psychology, and business.                                                                      | February 2-7   | Milan, Italy           |
+| [Pause Fest](https://www.pausefest.com.au)                                                              | a festival for business and creativity with a mission to bring diverse intelligence together to fuel the next generation forward.                                                                                                                                        | February 5-7   | Melbourne, Australia   |
+| [Outcome](http://outcomeconf.com)                                                                       | a conference that talks about startups, products, UX and design from a storytelling perspective.                                                                                                                                                                         | February 8     | Chandigarh, India      |
+| [Sketch Dallas February Meetup Event](https://www.sketch.com/community/groups/dallas/?event=2020-02-11) | an official Sketch meetup for designers and developers in Dallas. Share knowledge, trade tips, and hear about new plugins and resources. Meet local designers, learn more about the app and have fun with likeminded people.                                             | February 11    | Dallas, USA            |
+| [Brand New: First Round](https://underconsideration.com/firstround/)                                    | a one-day showcase of original presentations made to clients showing initial design explorations for logo, identity, and branding projects.                                                                                                                              | February 14    | Portland, USA          |
+| [Figma Africa Enugu Meetup](https://www.meetup.com/figma-africa/events/266832410/)                      | Figma's event where you'll explore places where people could go and get resources and inspiration for their design and finally.                                                                                                                                          | February 15    | Lagos, Nigeria         |
+| [UXistanbul](https://uxistanbul.org)                                                                    | the first UX conference of Turkey that gathers UX and Usability professionals from the world’s leading companies in Istanbul, to share their experiences.                                                                                                                | February 18    | Istanbul, Turkey       |
+| [Awwwwards Conference Amsterdam](https://conference.awwwards.com/amsterdam)                             | a digital design awards platform for designers, developers, and digital dreamers. It brings you the hottest topics and newest technologies on User Experience, UI Design, Web Design and Development, Animation, Technology, Branding, Trends, Creativity and much more. | February 19-21 | Amsterdam, Netherlands |
+| [Mouvo](https://mouvo.cz)                                                                               | a festival presenting motion design in all its forms – as a creative field as well as an outlet for personal expression.                                                                                                                                                 | February 21-22 | Prague, Czech Republic |
+| [FITC Amsterdam 2020](https://fitc.ca/event/am20/)                                                      | groundbreaking design and tech event on the future of innovation, design and all the cool stuff in between.                                                                                                                                                              | February 24-25 | Amsterdam, Netherlands |
 
-＃＃＃＃ 行進
+#### March
 
-| 姓名 | 關於 | 日期 | 位置 |
-| -------------------------------------------------- -------------------------------- | -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -- | ------------------ | -------------------- |
-| [倫敦用戶體驗大會](https://theuxconf.com) | 設計會議不是關於趨勢和流行語，而是設計師之間的合作和彼此之間的溝通：內部公司政治，展示設計的價值以及與不同的利益相關者說相同的語言。| 3 月 2-3 日 | 英國倫敦 |
-| [領先設計舊金山](https://leadingdesign.com/conferences/sanfran-2020) | 匯集了領導設計團隊、監督設計方向並在其組織內灌輸設計文化的專家。| 3 月 4 日至 6 日 | 美國舊金山 |
-| [NO/BS 會議](https://nobs.events) | 是一個志趣相投的人可以聚在一起，聽一些令人驚嘆的故事並打破所有這些的地方。| 3 月 11 日至 12 日 | 澳大利亞墨爾本 |
-| [SXSW 互動](https://www.sxsw.com) | 它涵蓋了所有方面，從未來主義產品設計到可應用於眾多其他學科、企業和組織的設計思維方法。該節目將研究設計如何影響我們的互動，塑造我們的體驗，並在解決問題中發揮關鍵作用。| 3 月 13 日至 22 日 | 美國奧斯汀 |
-| [IAM 週末](https://www.iam-internet.com/weekend) | 關心互聯網未來的創意思想家和實干家的年度聚會。最初是作為一項集體研究和學習計劃而創建的，具有獨立、無廣告、替代和目標驅動的心態。| 3 月 19 日至 21 日 | 西班牙巴塞羅那 |
-| [UX 哥本哈根](https://uxcopenhagen.com) | 為從事 UX 設計工作的專業人士舉辦的為期兩天的會議。您將聽到從專家到該領域的新人的多元化演講者小組介紹的一些最新的 UX 和設計趨勢。| 3 月 30 日至 31 日 | 丹麥哥本哈根 |
-| [AIGA 設計大會](https://designconference.aiga.org) | 將設計界聚集在一起，就不斷變化的設計世界進行一次千載難逢的跨學科思想交流。| 3 月 30 日 - 4 月 1 日 | 美國匹茲堡 |
+| Name                                                                               | About                                                                                                                                                                                                                                                                                                          | Dates              | Location             |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------------- |
+| [The UX Conference in London](https://theuxconf.com)                               | design conference that’s not about trends & buzzwords, but collaboration between designers and communication between each other: internal company politics, presenting the value of design and speaking the same language with different stakeholders.                                                         | March 2-3          | London, UK           |
+| [Leading Design San Francisco](https://leadingdesign.com/conferences/sanfran-2020) | brings together experts who lead design teams, oversee design direction and instill a culture of design within their organizations.                                                                                                                                                                            | March 4-6          | San Francisco, USA   |
+| [NO/BS Conference](https://nobs.events)                                            | is a place where like-minded people can get together, listen to some amazing stories and cut through all that.                                                                                                                                                                                                 | March 11-12        | Melbourne, Australia |
+| [SXSW Interactive](https://www.sxsw.com)                                           | it covers all aspects, from futuristic product design to design-thinking approaches that can be applied to numerous other disciplines, businesses, and organizations. This programming will examine how design informs our interactions, shapes our experiences, and plays a critical role in problem-solving. | March 13-22        | Austin, USA          |
+| [IAM Weekend](https://www.iam-internet.com/weekend)                                | the annual gathering for creative thinkers & doers who care about the futures of the internet. Originally created as a collective research and learning initiative with an independent, ad-free, alternative and purpose-driven mindset.                                                                       | March 19-21        | Barcelona, Spain     |
+| [UX Copenhagen](https://uxcopenhagen.com)                                          | a two-day conference for professionals working with UX design. You will hear about some of the newest trends in UX and Design, presented by a diverse panel of speakers ranging from gurus to people new to the field.                                                                                         | March 30-31        | Copenhagen, Denmark  |
+| [AIGA Design Conference](https://designconference.aiga.org)                        | brings the design community together in a once-in-a-lifetime, cross-disciplinary exchange of ideas about the changing world of design.                                                                                                                                                                         | March 30 - April 1 | Pittsburgh, USA      |
 
-＃＃＃＃ 四月
+#### April
 
-| 姓名 | 關於 | 日期 | 位置 |
-| -------------------------------------------------- ---------------------- | -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------- | ------------ | ---------------------- |
-| [UIArchConf](http://uiarchconf.com) | 面向 UI 架構師的會議和培訓活動。在這裡，您將探索 UI 架構的各個方面以及 UI 架構師在組織中扮演的重要角色。| 4 月 1-3 日 | 美國新奧爾良 |
-| [創意南方](https://www.creativesouth.com) | 一個充滿創造性思維、協作和探索的周末。享受研討會、專注於流程和體驗的講座，以及在設計社區中建立網絡。| 4 月 2-4 日 | 美國哥倫布 |
-| [Y 會議](https://sandiego.aiga.org/programs/y-conference/) | 國家級設計會議。它將行業思想家、創新者和變革者聚集在一起，進行為期兩天的創造力和協作。| 4 月 3-4 日 | 美國聖地亞哥 |
-| [偏移](https://www.iloveoffset.com) | 為期三天的創意會議。慶祝創意，匯集平面設計、插圖、街頭藝術和美術、電影、攝影、動態圖像等領域最優秀的國際和愛爾蘭創意人才。| 4 月 3-5 日 | 愛爾蘭都柏林 |
-| [阿姆斯特丹 UXcamp](https://uxcampams.com) | 一個 BarCamp，您可以在這里分享您關於用戶體驗設計和相關學科的知識、故事和想法。作為免費的一日非會議活動，它是由社區為社區製作的。沒有觀眾，只有貢獻者。| 4 月 4 日 | 荷蘭阿姆斯特丹 |
-| [在華盛頓特區舉辦的活動](https://aneventapart.com) | 面向用戶體驗和前端專家的網頁設計會議。為期三天的交互設計師和開發人員的設計、代碼和內容。包含來自行業變革者和塑造者的技巧、技術和對未來的見解。| 4 月 13 日至 15 日 | 美國華盛頓特區 |
-| [作物巴吞魯日](https://www.cropcons.com) | 為期兩天的創意、社區、靈感、學習等活動。與供應商、現場活動、現場音樂、派對後一起尋找鼓舞人心的演講和知識下降研討會。| 4 月 16 日至 18 日 | 美國巴吞魯日 |
-| [波特蘭設計週](https://designportland.org/festival/2020) | 慶祝設計作為他們城市最有前途的文化和經濟資源。他們的目的是通過城市充滿活力的設計規劃來探索跨學科的過程、工藝和實踐。| 4 月 18 日至 24 日 | 美國波特蘭 |
-| [FITC 多倫多 2020](https://fitc.ca/event/to20/) | 一場展示世界在設計、數字開發、媒體和創意技術創新方面最好的活動——它是三天三夜的展示、派對、裝置和表演，團結並改變了這個行業。| 4 月 19 日至 21 日 | 加拿大多倫多 |
-| [SmashingConf SF](https://smashingconf.com/sf-2020/) | 一個友好、包容的活動，專注於前端和用戶體驗，但它涵蓋了 Web 的所有內容，無論是界面設計還是機器學習。關於性能、可訪問性、界面設計、文案、情感設計、調試和花哨的 CSS/JS 技術的現場會議。| 4 月 21 日至 22 日 | 美國舊金山 |
-| [OFFF 巴塞羅那 2020](https://offf.barcelona/pins/offf-barcelona-2020/) | 為期三天的會議、研討會、活動和表演之旅。一切為了設計師社區：聲音、圖形、動作設計師、思想家、理論家等等。| 4 月 23 日至 25 日 | 西班牙巴塞羅那 |
-| [超越櫃員](https://beyondtellerrand.com/events/dusseldorf-2020) | 創意和技術相遇的經濟實惠的單軌活動。| 4 月 27 日至 29 日 | 德國杜塞爾多夫 |
+| Name                                                                     | About                                                                                                                                                                                                                                                                                | Dates       | Location               |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | ---------------------- |
+| [UIArchConf](http://uiarchconf.com)                                      | a conference and training event for those who work as UI Architects. Here you'll explore the various aspects of UI Architecture and the massive role a UI architect plays in an organization.                                                                                        | April 1-3   | New Orleans, USA       |
+| [Creative South](https://www.creativesouth.com)                          | a weekend of creative thinking, collaboration, and exploration. Enjoy workshops, talks focused on process & experience, and networking in the design community.                                                                                                                      | April 2-4   | Columbus, USA          |
+| [The Y Conference](https://sandiego.aiga.org/programs/y-conference/)     | a national-caliber design conference. It brings together industry thinkers, innovators, and change-makers for two days of creativity and collaboration.                                                                                                                              | April 3-4   | San Diego, USA         |
+| [Offset](https://www.iloveoffset.com)                                    | a three-day creative conference. Celebrating creativity and bringing together the best in International and Irish creative talent in graphic design, illustration, street and fine art, film, photography, moving image and much, much more.                                         | April 3-5   | Dublin, Ireland        |
+| [UXcamp Amsterdam](https://uxcampams.com)                                | a BarCamp where you can share your knowledge, stories, and ideas about User Experience Design and related disciplines. As a free one-day unconference event, it's made by the community for the community. There are no spectators, only contributors.                               | April 4     | Amsterdam, Netherlands |
+| [An Event Apart Washington, D.C.](https://aneventapart.com)              | the web design conference for UX & front-end experts. Three days of design, code, and content for interaction designers and developers. Packed with tips, techniques, and insights into the future from industry shakers and shapers.                                                | April 13-15 | Washington, D.C., USA  |
+| [Crop Baton Rouge](https://www.cropcons.com)                             | a two-day celebration of creativity, community, inspiration, learning & more. Find out inspiring talks and knowledge dropping workshops together with vendors, live events, live music, after-parties.                                                                               | April 16-18 | Baton Rouge, USA       |
+| [Design Week Portland](https://designportland.org/festival/2020)         | celebrates design as their city’s most promising cultural and economic resource. Their purpose is to explore process, craft, and practice across disciplines through a city’s vibrant design programming.                                                                            | April 18-24 | Portland, USA          |
+| [FITC Toronto 2020](https://fitc.ca/event/to20/)                         | an event showcasing the best the world has to offer in design, digital development, media and innovation in creative technologies – it’s three days and nights of presentations, parties, installations and performances that unite and transform the industry.                      | April 19-21 | Toronto, Canada        |
+| [SmashingConf SF](https://smashingconf.com/sf-2020/)                     | a friendly, inclusive event that is focused on front-end and UX, but it covers everything web, be it interface design or machine learning. Live sessions on performance, accessibility, interface design, copywriting, designing for emotion, debugging and fancy CSS/JS techniques. | April 21-22 | San Francisco, USA     |
+| [OFFF Barcelona 2020](https://offf.barcelona/pins/offf-barcelona-2020/)  | a three-day journey of conferences, workshops, activities, and performances. All for the community of designers: sound, graphic, motion designers, thinkers, theorists and more.                                                                                                     | April 23-25 | Barcelona, Spain       |
+| [beyond tellerrand](https://beyondtellerrand.com/events/dusseldorf-2020) | the affordable single-track event where creativity and technology meet.                                                                                                                                                                                                              | April 27-29 | Düsseldorf, Germany    |
 
-＃＃＃＃ 可能
+#### May
 
-| 姓名 | 關於 | 日期 | 位置 |
-| -------------------------------------------------- ------------------------------------------ | -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ------------------------------------------------------- | --------- | ------------------------------------ |
-| [UX 伯靈頓](https://www.uxburlington.com) | 一年一度的單日會議，重點關注在網絡、應用程序及其他領域構建出色的數字用戶體驗真正需要什麼。| 5 月 1 日 | 美國伯靈頓 |
-| [像素向上！](https://pixelup.co.za) | 南非首屈一指的 UX 和設計會議，匯集了 UX 和 UI 設計師、UX 作家、研究人員和產品經理。| 5 月 4 日至 6 日 | 南非開普敦 |
-| [HOW Design Live](https://www.howdesignlive.com) | 為設計、營銷和創意專業人士舉辦的為期四天的會議和為期三天的博覽會，重點關注主要企業品牌和設計公司的內部從業者。| 5 月 4 日至 7 日 | 馬薩諸塞州波士頓 |
-| [和&魯汶](https://www.andleuven.com/en) | 一個將當今的變革者聚集在一起的創新節，以激發各種背景的好奇心。它為跨學科創新提供了一個平台，旨在改變我們的社會並應對我們今天面臨的挑戰。| 5 月 6 日至 9 日 | 比利時魯汶 |
-| [An Event Apart Seattle](https://aneventapart.com) | 面向用戶體驗和前端專家的網頁設計會議。為期三天的交互設計師和開發人員的設計、代碼和內容。包含來自行業變革者和塑造者的技巧、技術和對未來的見解。| 5 月 11 日至 13 日 | 美國西雅圖 |
-| [營地數碼](https://www.wearesigma.com/campdigital/2020/) | 一個鼓舞人心的會議，將數字、設計和用戶體驗社區聚集在一起，舉辦一系列探討我們行業最新思維的研討會。| 5 月 13 日 | 英國曼徹斯特 |
-| [D\&AD FESTIVAL 2020](https://www.dandad.org/en/d-ad-creative-advertising-design-festival/) | 為期三天的全球創意產業沉浸在世界上最好的工藝、創意和文化中。| 5 月 19 日至 21 日 | 英國倫敦 |
-| [UXLx](https://www.ux-lx.com) | 為期四天的鼓舞人心的講座和實踐研討會，由頂級行業演講者組成。| 5 月 19 日至 22 日 | 葡萄牙里斯本 |
-| [網絡研討會](https://webinale.de/en) | 面向產品所有者、網頁設計師和前端編碼人員的會議。它將用戶體驗與代碼相結合，並提供了對當今數字專業人士很重要的各種主題。| 5 月 25 日至 29 日 | 德國柏林 |
-| [UX 倫敦](https://2020.uxlondon.com) | Clearleft 為期三天的 UX 活動，將鼓舞人心的演講與一些業內知名人士舉辦的深入研討會相結合。| 5 月 27 日至 29 日 | 英國倫敦 |
+| Name                                                                                        | About                                                                                                                                                                                                                                               | Dates     | Location                |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------------- |
+| [UX Burlington](https://www.uxburlington.com)                                               | an annual single-day conference, focused on what it really takes to build great digital user experiences on the web, in apps, and beyond.                                                                                                           | May 1     | Burlington, USA         |
+| [Pixel Up!](https://pixelup.co.za)                                                          | South Africa's premier UX and design conference that brings together UX and UI designers, UX writers, researchers, and product managers.                                                                                                            | May 4-6   | Cape Town, South Africa |
+| [HOW Design Live](https://www.howdesignlive.com)                                            | a four-day conference and 3-day expo for design, marketing and creative professionals, with a focus on in-house practitioners in major corporate brands and design firms.                                                                           | May 4-7   | Boston, Massachusetts   |
+| [and& Leuven](https://www.andleuven.com/en)                                                 | an innovation festival that brings together changemakers of today to inspire curious minds of all backgrounds. It provides a platform for interdisciplinary innovation that aims to transform our society & acts upon the challenges we face today. | May 6-9   | Leuven, Belgium         |
+| [An Event Apart Seattle](https://aneventapart.com)                                          | the web design conference for UX & front-end experts. Three days of design, code, and content for interaction designers and developers. Packed with tips, techniques, and insights into the future from industry shakers and shapers.               | May 11-13 | Seattle, USA            |
+| [Camp Digital](https://www.wearesigma.com/campdigital/2020/)                                | an inspirational conference that brings together the digital, design and UX communities for a series of seminars exploring the latest thinking in our industry.                                                                                     | May 13    | Manchester, UK          |
+| [D\&AD FESTIVAL 2020](https://www.dandad.org/en/d-ad-creative-advertising-design-festival/) | a three-day immersion in the world’s best craft, creativity and culture for the global creative industries.                                                                                                                                         | May 19-21 | London, UK              |
+| [UXLx](https://www.ux-lx.com)                                                               | four days of inspiring talks and hands-on workshops featuring top industry speakers.                                                                                                                                                                | May 19-22 | Lisbon, Portugal        |
+| [webinale](https://webinale.de/en)                                                          | the conference for product owners, web designers, and frontend coders. It combines user experience with code and offers a variety of topics that are important for digital professionals nowadays.                                                  | May 25-29 | Berlin, Germany         |
+| [UX London](https://2020.uxlondon.com)                                                      | a three-day UX event by Clearleft, combining inspirational talks with in-depth workshops presented by some of the industry’s biggest names.                                                                                                         | May 27-29 | London, UK              |
 
-＃＃＃＃ 六月
+#### June
 
-| 姓名 | 關於 | 日期 | 位置 |
-| -------------------------------------------------- -------------------------- | -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ----- | -------------- | ---------------------- |
-| [創意專業周](https://creativeproweek.com) | HOW-TO 會議面向在 Adob​​e InDesign、Photoshop、Illustrator、Microsoft PowerPoint 和其他創意工具中設計、創建或編輯的創意專業人士。| 6 月 1 日至 5 日 | 美國奧斯汀 |
-| [流動性](https://www.fluxible.ca) | 一群對用戶體驗設計及其相關領域有共同興趣的人。Fluxible 是一個包容、合作的環境，歡迎每個人，鼓勵公開對話，並欣賞所有觀點。| 6 月 1 日至 7 日 | 加拿大滑鐵盧 |
-| [UXR 集體](https://uxrconference.com) | 匯集了來自全球各地的人們，他們致力於支持他們的用戶、提供更好的見解並改善技術生態系統。| 6 月 3 日至 5 日 | 加拿大多倫多 |
-| 【99U會議】(https://conference.99u.com) | Adobe 的職業資源和年度會議，幫助各行各業的創意人士增強他們的工作並實現他們的想法。| 6 月 3 日至 5 日 | 美國紐約 |
-| [伯明翰設計節](https://birminghamdesignfestival.org.uk) | 每年六月在英國舉行的地方、國家和國際設計行業慶祝活動。| 6 月 5 日至 6 日 | 英國伯明翰 |
-| [眼睛節](http://eyeofestival.com) | 匯集了在數據、藝術和技術交叉領域工作的創意編碼員、數據設計師和創作者，用於講座、研討會、實驗室和活動。| 6 月 8 日至 11 日 | 美國明尼阿波利斯 |
-| [SmashingConf](https://smashingconf.com/austin-2020) | 一場關於前端、設計和 UX 的包容、實用和友好的會議，內容涉及 CSS/JS 技術、可訪問性、性能、隱私、國際化、移動設計、HTML 電子郵件和真實案例研究。| 6 月 9 日至 10 日 | 美國奧斯汀 |
-| [Dsgnday](https://dsgnday.nl) | 一個全天的會議，有八場關於網頁設計和用戶體驗的演講。期待在任何設備上為 Web 設計的大量實用建議。| 6 月 11 日 | 荷蘭阿姆斯特丹 |
-| [ICON11：插畫大會](https://theillustrationconference.org) | 今天，插畫家、設計師、教育家、代表和藝術品買家齊聚一堂，探索插畫。| 6 月 28 日至 7 月 1 日 | 美國堪薩斯城 |
-| [An Event Apart Boston](https://aneventapart.com) | 面向用戶體驗和前端專家的網頁設計會議。為期三天的交互設計師和開發人員的設計、代碼和內容。包含來自行業變革者和塑造者的技巧、技術和對未來的見解。| 6 月 29 日至 7 月 1 日 | 美國波士頓 |
+| Name                                                                         | About                                                                                                                                                                                                                                                           | Dates          | Location               |
+| ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ---------------------- |
+| [CreativePro Week](https://creativeproweek.com)                              | the HOW-TO conference for creative professionals who design, create, or edit in Adobe InDesign, Photoshop, Illustrator, Microsoft PowerPoint, and other creative tools.                                                                                         | June 1-5       | Austin, USA            |
+| [Fluxible](https://www.fluxible.ca)                                          | a gathering of people who share an interest in user experience design and the fields with which it intersects. Fluxible is an inclusive, cooperative environment where everyone is welcomed, open dialogue is encouraged, and all perspectives are appreciated. | June 1-7       | Waterloo, Canada       |
+| [UXR Collective](https://uxrconference.com)                                  | brings together people from across the globe who are committed to championing their users, surfacing better insights, and bettering the tech ecosystem.                                                                                                         | June 3-5       | Toronto, Canada        |
+| [99U Conference](https://conference.99u.com)                                 | Adobe’s career resource and annual conference, helping creatives of all stripes supercharge their work and make their ideas happen.                                                                                                                             | June 3-5       | New York, USA          |
+| [Birmingham Design Festival](https://birminghamdesignfestival.org.uk)        | a celebration of the local, national and international design industry held in the UK every June.                                                                                                                                                               | June 5-6       | Birmingham, UK         |
+| [Eyeo Festival](http://eyeofestival.com)                                     | brings together creative coders, data designers, and creators working at the intersection of data, art & technology for talks, workshops, labs, and events.                                                                                                     | June 8-11      | Minneapolis, USA       |
+| [SmashingConf](https://smashingconf.com/austin-2020)                         | an inclusive, practical and friendly conference on front-end, design and UX, with CSS/JS techniques, accessibility, performance, privacy, internationalization, designing for mobile, HTML email and real-life case studies.                                    | June 9-10      | Austin, USA            |
+| [Dsgnday](https://dsgnday.nl)                                                | a full-day conference with eight presentations about web design and user experience. Expect plenty of practical advice on designing for the web—on any device.                                                                                                  | June 11        | Amsterdam, Netherlands |
+| [ICON11: The Illustration Conference](https://theillustrationconference.org) | gathering of illustrators, designers, educators, representatives, and art buyers exploring illustration today.                                                                                                                                                  | June 28-July 1 | Kansas City, USA       |
+| [An Event Apart Boston](https://aneventapart.com)                            | the web design conference for UX & front-end experts. Three days of design, code, and content for interaction designers and developers. Packed with tips, techniques, and insights into the future from industry shakers and shapers.                           | June 29-July 1 | Boston, USA            |
 
-＃＃＃＃ 七月
+#### July
 
-| 姓名 | 關於 | 日期 | 位置 |
-| ---------------------------------------------------- | -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------- | ---------- | ------------------ |
-| [設計/內容](https://content.design) | 設計師和內容策略師會議。聽取行業領導者關於打造網絡未來的經驗和講述故事的故事。在最美麗的城市之一進行一天的研討會、兩天的會談和周到的額外活動。| 7 月 15-17 日 | 加拿大溫哥華 |
-| [SIGGRAPH](https://s2020.siggraph.org) | 靈感創造進步的論壇。與我們具有前瞻性的社區合作，尋找計算機圖形和交互技術方面最具變革性的進步。| 7 月 19 日至 23 日 | 美國華盛頓 |
+| Name                                     | About                                                                                                                                                                                                                                                             | Dates      | Location          |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------- |
+| [Design/Content](https://content.design) | the conference for designers & content strategists. Hear from industry leaders about crafting experiences and telling stories that shape the future of the web. A day of workshops, two days of talks, and thoughtful extras in one of the most beautiful cities. | July 15-17 | Vancouver, Canada |
+| [SIGGRAPH](https://s2020.siggraph.org)   | the forum where inspiration creates progress. Collaborate with our forward-thinking community to find the most transformative advancements across computer graphics and interactive techniques.                                                                   | July 19-23 | Washington, USA   |
 
-＃＃＃＃ 八月
+#### August
 
-| 姓名 | 關於 | 日期 | 位置 |
-| -------------------------------------------------- ---- | -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------- | ------------ | ---------------------- |
-| [RAD 峰會 2020](https://radsummit.co) | 為打造出色產品的人們舉辦的營地式會議。rad 峰會是專門為設計師、產品經理、藝術家、領導者、開發人員、企業家和喜歡新鮮松樹氣味的人們打造的科羅拉多體驗。| 8 月 13 日至 16 日 | 科羅拉多州丹佛 |
-| [明尼阿波利斯活動公寓](https://aneventapart.com) | 面向用戶體驗和前端專家的網頁設計會議。為期三天的交互設計師和開發人員的設計、代碼和內容。包含來自行業變革者和塑造者的技巧、技術和對未來的見解。| 8 月 17 日至 19 日 | 美國明尼阿波利斯 |
-| [Loupe2020](https://www.framer.com/loupe/#signup) | Framer 舉辦的關於交互設計和創意編碼的會議。設計師、原型製作者和開發人員就他們的工作方式和創作過程進行討論。還有 Framer X 研討會，以便與會者在會議結束時獲得一些實用的東西。| 8 月 19 日至 21 日 | 荷蘭阿姆斯特丹 |
+| Name                                                   | About                                                                                                                                                                                                                                                                                 | Dates        | Location               |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------------- |
+| [RAD Summit 2020](https://radsummit.co)                | the camp-style conference for people who build awesome products. rad summit is a colorado experience built specifically for designers, product managers, artists, leaders, devs, entrepreneurs, and people who love the fresh smell of pine.                                          | August 13-16 | Denver, CO             |
+| [An Event Apart Minneapolis](https://aneventapart.com) | the web design conference for UX & front-end experts. Three days of design, code, and content for interaction designers and developers. Packed with tips, techniques, and insights into the future from industry shakers and shapers.                                                 | August 17-19 | Minneapolis, USA       |
+| [Loupe2020](https://www.framer.com/loupe/#signup)      | a conference from Framer on interactive design and creative coding. Talks from designers, prototypers, and developers on the way they work and their creative process. There are also Framer X workshops so that attendees can get some practical stuff at the end of the conference. | August 19-21 | Amsterdam, Netherlands |
 
-＃＃＃＃ 九月
+#### September
 
-| 姓名 | 關於 | 日期 | 位置 |
-| -------------------------------------------------- ---- | -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ---------------------- | --------------- | ------------------ |
-| [SmashingConf](https://smashingconf.com/freiburg-2020) | 友好、包容的活動，專注於現實世界的問題和解決方案。他們的重點是前端和 UX，但我們涵蓋了 Web 的所有內容，無論是 UI 設計還是機器學習。| 9 月 7 日至 8 日 | 德國弗萊堡 |
-| [圈子](https://circlesconference.com) | 為期三天的創意設計會議，匯集了來自世界各地的設計師和製造商。向變革型思想家學習並與志同道合的創新者建立聯繫，它提供了一個空間，您將在其中挑戰自我，推動自己進入創作過程。| 9 月 10 日至 11 日 | 美國理查森 |
-| [dConstruct](https://2020.dconstruct.org) | 一個價格實惠的為期一天的會議，面向那些設計和構建最新一代基於 Web 的應用程序的人。| 9 月 11 日 | 英國布萊頓 |
-| [數字實驗室](https://digitalab.in) | 為期兩天的 ICT 會議將為您帶來網絡、移動和軟件設計與開發領域的頂級主題演講者。此外，我們很高興舉辦專業研討會、許多社交活動和值得紀念的派對。| 9 月 25 日至 26 日 | 拉賓，克羅地亞 |
+| Name                                                   | About                                                                                                                                                                                                                                                                            | Dates           | Location          |
+| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ----------------- |
+| [SmashingConf](https://smashingconf.com/freiburg-2020) | friendly, inclusive events that are focused on real-world problems and solutions. Their focus is on front-end and UX but we cover everything web, be it UI design or machine learning.                                                                                           | September 7-8   | Freiburg, Germany |
+| [Circles](https://circlesconference.com)               | a three-day creative design conference, bringing together designers and makers from around the globe. Learning from transformative thinkers and connecting with like-minded innovators, it provides a space where you’ll be challenged to push yourself in the creative process. | September 10-11 | Richardson, USA   |
+| [dConstruct](https://2020.dconstruct.org)              | an affordable, one-day conference aimed at those designing and building the latest generation of web-based applications.                                                                                                                                                         | September 11    | Brighton, UK      |
+| [Digital Labin](https://digitalab.in)                  | a two-day ICT conference bringing you top of the line keynote speakers in web, mobile and software design and development. Additionally, we are happy to have professional workshops, many networking activities and a party to remember.                                        | September 25-26 | Labin, Croatia    |
 
-#### 十月
+#### October
 
-| 姓名 | 關於 | 日期 | 位置 |
-| -------------------------------------------------- ------------------------------------ | -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ------------ | ------------- | ---------------- |
-| [奧蘭多活動公寓](https://aneventapart.com) | 面向用戶體驗和前端專家的網頁設計會議。為期三天的交互設計師和開發人員的設計、代碼和內容。包含來自行業變革者和塑造者的技巧、技術和對未來的見解。| 10 月 5 日至 7 日 | 美國奧蘭多 |
-| [Adobe MAX](https://max.adobe.com) | Adobe 的年度活動，您可以在其中了解最新的 Adob​​e 公告、參加 300 多場會議、實驗室、創意研討會並相互交流。| 10 月 19 日至 21 日 | 美國洛杉磯 |
-| [SmashingConf](https://smashingconf.com/ny-2020/) | 一場關於前端、設計和用戶體驗的包容、實用和友好的會議，內容涉及 CSS/JS 技術、可訪問性、性能、隱私和真實案例研究。| 10 月 20 日至 21 日 | 美國紐約 |
-| 【西雅圖互動大會】(https://seattleinteractive.com) | 是對技術、創造力和工業交匯處發生的令人難以置信的工作的慶祝。他們關注體驗、設計和戰略方面的創新。他們相信創造性思維的力量，並且可以利用數據和技術來幫助我們做出更好的、有意識的選擇。| 10 月 20 日至 22 日 | 美國西雅圖 |
-| [全新會議](https://underconsideration.com/brandnewconference/) | 為期兩天的企業和品牌識別活動，來自世界各地的一些當今最活躍和最有影響力的從業者。| 10 月 22 日至 23 日 | 美國奧斯汀 |
-| [設計思想家](https://designthinkers.com) | 加拿大最大的年度平面設計會議，連接來自世界各地的設計師。| 10 月 24 日至 25 日 | 加拿大多倫多 |
-| [創意作品](https://conference.creativeworks.co) | 會議適合那些認真對待自己的手藝並希望提高技能並了解其他人如何工作的創意專業人士。數十場講座、研討會、供應商和派對，鼓勵創意專業人士之間的靈感、聯繫和成長。| 2020 年 10 月 | 美國孟菲斯 |
+| Name                                                                       | About                                                                                                                                                                                                                                                                                                                   | Dates         | Location         |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------------- |
+| [An Event Apart Orlando](https://aneventapart.com)                         | the web design conference for UX & front-end experts. Three days of design, code, and content for interaction designers and developers. Packed with tips, techniques, and insights into the future from industry shakers and shapers.                                                                                   | October 5-7   | Orlando, USA     |
+| [Adobe MAX](https://max.adobe.com)                                         | Adobe's annual events where you can learn the latest Adobe announcements, attend 300+ sessions, labs, creativity workshops and network with each other.                                                                                                                                                                 | October 19-21 | Los Angeles, USA |
+| [SmashingConf](https://smashingconf.com/ny-2020/)                          | an inclusive, practical and friendly conference on front-end, design and UX, with CSS/JS techniques, accessibility, performance, privacy and real-life case studies.                                                                                                                                                    | October 20-21 | New York, USA    |
+| [Seattle Interactive Conference](https://seattleinteractive.com)           | is a celebration of the incredible work happening at the intersection of technology, creativity and industry. They spotlight innovation in experience, design, and strategy. They believe in the power of creative thinking, and that data and technology can be leveraged to help us make better, intentional choices. | October 20-22 | Seattle, USA     |
+| [Brand New Conference](https://underconsideration.com/brandnewconference/) | a two-day event on corporate and brand identity with some of today’s most active and influential practitioners from around the world.                                                                                                                                                                                   | October 22-23 | Austin, USA      |
+| [Design Thinkers](https://designthinkers.com)                              | Canada's largest annual graphic design conference, connecting designers from around the world.                                                                                                                                                                                                                          | October 24-25 | Toronto, Canada  |
+| [Creative Works](https://conference.creativeworks.co)                      | a conference is for creative professionals who are serious about their craft and want to sharpen their skills and learn how others work. Dozens of talks, workshops, vendors, and afterparties that encourage inspiration, connection, and growth among creative professionals.                                         | October 2020  | Memphis, USA     |
 
-#### 十二月
+#### December
 
-| 姓名 | 關於 | 日期 | 位置 |
-| -------------------------------------------------- ------ | -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ------------------------------ | -------------- | ------------------ |
-| [An Event Apart San Francisco](https://aneventapart.com) | 面向用戶體驗和前端專家的網頁設計會議。為期三天的交互設計師和開發人員的設計、代碼和內容。包含來自行業變革者和塑造者的技巧、技術和對未來的見解。| 12 月 14 日至 16 日 | 美國舊金山 |
+| Name                                                     | About                                                                                                                                                                                                                                 | Dates          | Location           |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------ |
+| [An Event Apart San Francisco](https://aneventapart.com) | the web design conference for UX & front-end experts. Three days of design, code, and content for interaction designers and developers. Packed with tips, techniques, and insights into the future from industry shakers and shapers. | December 14-16 | San Francisco, USA |
 
-#### 附錄（參考和靈感）
+#### Addendum (Reference & Inspiration)
 
-Awesome Design Tools & Plugins & Conferences 由 Flawless 團隊的 [Lisa Dziuba](https://twitter.com/LisaDziuba) 和 [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) 策劃。它的靈感來自設計社區的文章和我們的好朋友 Graeme Fulton 製作的 Prototypr.io Toolbox。如果你發現了一些很棒的設計工具、插件或會議，請[推薦](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution\_Guidelines.md)。感謝您使這個項目很棒:)
+Awesome Design Tools & Plugins & Conferences are curated by [Lisa Dziuba](https://twitter.com/LisaDziuba) & [Valia Havruliyk](https://twitter.com/ValiaHavryliuk) from Flawless team. And it was hugely inspired by articles from the design community and Prototypr.io Toolbox made by our good friend Graeme Fulton. If you found some great design tool, plugins or conferences, please [suggest it](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Contribution\_Guidelines.md). Thanks for making this project awesome :)
