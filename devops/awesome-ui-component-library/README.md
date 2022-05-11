@@ -1,4 +1,4 @@
-# Awesome UI Componet
+# Awesome UI component library
 
 [![HitCount](http://hits.dwyl.io/anubhavsrivastava/awesome-ui-component-library.svg)](http://hits.dwyl.io/anubhavsrivastava/awesome-ui-component-library)
 [![歡迎 PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
