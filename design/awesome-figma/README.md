@@ -1,4 +1,4 @@
-# 很棒的 Figma [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Figma
 
 [<img src="figma-logo.svg" align="right" width="100">](https://www.figma.com)
 
