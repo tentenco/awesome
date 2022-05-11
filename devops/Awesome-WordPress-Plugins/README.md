@@ -4,7 +4,7 @@ WordPress 生態系統中友好、易於使用的 GPL 插件列表。[WPMeta 系
 - 下面列出的所有插件都是 GPL。
 - 插件可能有精簡版和專業版。
 
-＃＃＃ 廣告
+### 廣告
 - [AdRotate](https://wordpress.org/plugins/adrotate/)
 - [插入帖子廣告](https://wordpress.org/plugins/insert-post-ads/)
 - [廣告插入器](https://wordpress.org/plugins/ad-inserter/)
