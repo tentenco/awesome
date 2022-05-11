@@ -1,13 +1,5 @@
 # Awesome Figma
 
-[<img src="figma-logo.svg" align="right" width="100">](https://www.figma.com)
-
-> [**Figma**](https://www.figma.com/) 是第一個實時協作的界面設計工具。
-
-精選的 Figma 產品列表，專注於集成 Figma 和開發，例如 Figma Plugins、Figma Rest API。
-
-發現了一些很酷的東西？請，**[contribute](contributing.md)**！
-
 ＃＃ 內容
 
 * [視頻](#videos)
