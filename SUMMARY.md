@@ -6,7 +6,6 @@
     * [Awesome-Design-Conferences](design/Awesome-Design-Tools/Awesome-Design-Conferences.md)
   * [Awesome-UI-Templates](design/awesome-ui-templates/README.md)
     * [README-en](design/Awesome-UI-Templates/README-en.md)
-  * [Awesome-UI-Templates](design/Awesome-UI-Templates/README.md)
   * [awesome-design-systems](design/awesome-design-systems/README.md)
     * [README-en](design/awesome-design-systems/README-en.md)
   * [awesome-styleguides](design/awesome-styleguides/README.md)
