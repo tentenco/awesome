@@ -7,7 +7,7 @@
   * [Awesome-UI-Templates](design/awesome-ui-templates/README.md)
     * [README-en](design/Awesome-UI-Templates/README-en.md)
   * [awesome-design-systems](design/awesome-design-systems/README.md)
-    * [README-en](design/awesome-design-systems/README-en.md)
+    * [Awesome Design System](design/awesome-design-systems/README-en.md)
   * [Awesome Figma](design/awesome-figma/README.md)
     * [Awesome Figma](design/awesome-figma/README-en.md)
   * [awesome-styleguides](design/awesome-styleguides/README.md)
