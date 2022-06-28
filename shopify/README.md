@@ -1,4 +1,4 @@
-# 真棒 Shopify
+# Shopify Awesome 真棒!
 
 > 👩‍🎓👨‍🎓 Shopify 所有者和應用程序開發人員必讀的文章、視頻和書籍。
 
