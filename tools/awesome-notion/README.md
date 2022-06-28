@@ -117,3 +117,34 @@
 - [notion-sdk-php](https://github.com/brd6/notion-sdk-php/) - 官方 Notion API 的 PHP 庫。
 - [notion-exporter](https://github.com/yannbolliger/notion-exporter) - 用於從任何 Notion.so 頁面導出 .md 和 .csv 文件的 CLI 和庫。
 
+
+
+# Notion好站列表
+
+> 如果你有想添加或者移除本列表的Notion站，歡迎PR！
+
+| 地址 | 備註 |
+| --- | --- |
+| [ MEMERY SPACE](https://www.notion.so/MEMERY-SPACE-29b45a5134d74892b755f4249c1b23fb) | 生活不止眼前的苟且 |
+| [福利吧知識庫](https://www.notion.so/b9f65669edc542c89d1e20e6c11bed99) | 資源收藏 |
+| [芝麻地](https://www.notion.so/63b2e83003f240339ae065011afc88a0) | 有關編程與設計的郵報 |
+| [數字生活](https://www.notion.so/b194e46214f043999a1f783761a46b2c) | 深入研究快速學習領域 |
+| [BMPI的收藏夾](https://www.notion.so/mdw/a722ba82bf184833bb33628c85b18dae) | 收藏網站 |
+| [被動收入投資組合](https://www.notion.so/mdw/e0ed086e701a4d0aaa4839d2c7aa62ea) | 投資組合 |
+| [TransitiveBullsh.it](https://www.notion.so/TransitiveBullsh-it-78fc5a4b88d74b0e824e29407e9f1ec1) | [基於Notion做CMS的部落格站](https://transitivebullsh.it/) |
+| [TASS 3.0 Project Manager](https://www.notion.so/TASS-3-0-Project-Manager-efe172fb46d54d88a9a5876eeb7db3a3) | The Authority Site System 3.0 |
+| [ ( y o u r )    h o m e  🌛](https://www.notion.so/y-o-u-r-h-o-m-e-1c5bb60c6e524322880972dcef04c56e) | 二次元版年度規劃 |
+| [Personal OKRs](https://www.notion.so/Personal-OKRs-202c39deed554e09b8ad36e1d5780af9) | 個人OKR模版 |
+| [Company OKRs - Notion template](https://anotioneer.com/Company-OKRs-Notion-template-9e787e68ab9b4281ac29cf089494752e) | 公司OKR模版 |
+| [Achieve Your Goals: OKRs in Notion](https://www.notion.vip/achieve-your-goals-okrs-in-notion/) | 付費OKR模版 |
+| [讀書筆記（老石談芯）](https://www.notion.so/4a612dbc4ef54209ac489a05e29a6831) | 讀書筆記 |
+| [春殿的手賬本](https://www.notion.so/5a23e43b26e64651be75a22693564ce3) | 個人部落格 |
+| [中文Newsletter導航](https://www.notion.so/Newsletter-68ee46c0a4574f659fb8a873ead438c6) | 收集中文領域的Newsletter |
+| [裝修經驗教訓](https://www.notion.so/66226e9a906740d9bb16914dd28577bb) | 裝修一手被坑經驗 |
+| [˗ˏˋ Dashboard ´ˎ˗](https://www.notion.so/Dashboard-3640553b7c374504ba7c76350811097c) | 很漂亮的個人Dashboard |
+| [The Vault - Nguyen's Design Resource stash](https://www.notion.so/The-Vault-Nguyen-s-Design-Resource-stash-dd710673638a4c16a571574ff72d05f9) | 一個有14年設計經驗的設計師收藏的關於設計的資源 |
+| [Nicolas Grenié](https://nicolasgrenie.com/Nicolas-Greni-c9c1f971c75248b1a3d6d0a40499cbf1) | Notion搭建的個人部落格 |
+| [Designtips.Today](https://designtips.today/) | Design with better way |
+| [北疆10日線路規劃](https://www.notion.so/10-0002ed7217f44621904dba142081f865) | 旅遊 |
+| [信鑫 Blog](https://www.rustc.cloud/) | 一個簡潔的個人技術部落格 |
+| [Ludwigの生活觀察](https://wangyurui.notion.site) | 個人知識庫 |

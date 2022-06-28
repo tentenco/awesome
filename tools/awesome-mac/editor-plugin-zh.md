@@ -1,12 +1,12 @@
-Plugin
----
+# editor-plugin-zh
 
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](editor-plugin.md) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](editor-plugin-zh.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/cn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+### Plugin
 
-## Atom Plugin
+[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](editor-plugin.md) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](editor-plugin-zh.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/cn)
+
+### Atom Plugin
 
 * 通用
-
   * [relative-numbers](https://atom.io/packages/relative-numbers) - 显示相对行号。
   * [trailing-spaces](https://atom.io/packages/trailing-spaces) - 高亮多余的空格。
   * [terminal-plus](https://atom.io/packages/terminal-plus) - 内嵌式全功能控制台。
@@ -27,10 +27,8 @@ Plugin
   * [project-plus](https://atom.io/packages/project-plus) - 项目管理， 可以快速切换不同项目，多项目同时工作利器。
   * [regex-railroad-diagram](https://atom.io/packages/regex-railroad-diagram) - 可以图形化显示正则表达式。
   * [tree-view-search-bar](https://atom.io/packages/tree-view-search-bar/) - 文件列表快速查找工具。
-
 * 前端
-
-  * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。[![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
+  * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg)](https://github.com/facebook/nuclide)
   * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
   * [Emmet](https://atom.io/packages/emmet) - 快速编写HTML。
   * [tag](https://atom.io/packages/tag) - Sublime 风格的 HTML 标签自动闭合。
@@ -40,14 +38,12 @@ Plugin
   * [pigments](https://atom.io/packages/pigments) - 把你文件中的颜色代码展示出来。
   * [atom-html-preview](https://atom.io/packages/atom-html-preview) - 内置Chrome浏览器写移动端非常棒。
   * [tree-view-copy-relative-path](https://atom.io/packages/tree-view-copy-relative-path) - 可以跟当前文件输出目标文件的相对路径，适合多文件相互调用。
-
 * Python
-
   * [autocomplete-python](https://atom.io/packages/autocomplete-python) - 对Python提示进行增强。
   * [linter-flake8](https://atom.io/packages/linter-flake8) - Python 语法检查。
   * [python-tools](https://atom.io/packages/python-tools) - 一些有用的 Python 开发工具集。
 
-## Sublime Text Plugin
+### Sublime Text Plugin
 
 * [PlainTasks](https://packagecontrol.io/packages/PlainTasks) - 一个自以为是的待办事项列表插件。
 * [Emmet](https://github.com/sergeche/emmet-sublime) - zen coding的升级版，对于前端来说，可是必备插件。
@@ -61,7 +57,7 @@ Plugin
 * [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) - HTML/CSS/JS 格式化。
 * [Alignment](https://packagecontrol.io/packages/Alignment) - 用于代码对齐。
 * [WakaTime](https://packagecontrol.io/packages/WakaTime) - 用于记录编程时间。
-* [Seti_UI](https://packagecontrol.io/packages/Seti_UI) - 好看的主题，包括文件icon。
+* [Seti\_UI](https://packagecontrol.io/packages/Seti\_UI) - 好看的主题，包括文件icon。
 * [OmniMarkupPreviewer](https://packagecontrol.io/packages/OmniMarkupPreviewer) - 将MD文件渲染成网页，可以在浏览器中查看。
 * [GitGutter](https://packagecontrol.io/packages/GitGutter) - 显示比对Git的状态。
 * [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) - 高亮显示标签括号。
@@ -78,12 +74,10 @@ Plugin
 * [GitStatus](https://packagecontrol.io/packages/GitStatus) - 监控更改的文件和项目状态实时提示。
 * [Gitignore](https://packagecontrol.io/packages/Gitignore) - Git的.gitignore文件生成，内置常用过滤文件。
 
-
-## VSCode Plugin
+### VSCode Plugin
 
 * 通用
-
-  * [vscode-icons](https://github.com/vscode-icons/vscode-icons) -  Code设置vscode图标
+  * [vscode-icons](https://github.com/vscode-icons/vscode-icons) - Code设置vscode图标
   * [Bracket Pair Colorizer](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) - 着色匹配括号。
   * [Indent-Rainbow](https://github.com/oderwat/vscode-indent-rainbow) - 对缩进显示彩虹色作色，使得更加易读
   * [Trailing Spaces](https://github.com/shardulm94/vscode-trailingspaces) - 检测多余空格并高亮
@@ -99,14 +93,12 @@ Plugin
   * [Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug) - vscode中调试在chrome的js代码
   * [ESlint](https://github.com/Microsoft/vscode-eslint) - eslint在vscode工具，帮助校验es语法等
   * [TSLint](https://github.com/Microsoft/vscode-eslint) - tslint在vscode工具，帮助校验ts语法等
-
 * HTML
   * [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag) - 自动闭合标签
   * [Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag) - 自动重命名标签
-  * [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) -  html代码片段
+  * [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets) - html代码片段
   * [IntelliSense for CSS class names in HTML](https://github.com/Zignd/HTML-CSS-Class-Completion) - 基于当前项目css文件，在html中智能提示CSS类名
   * [HTML CSS Support](https://github.com/ecmel/vscode-html-css) - 在html中智能提示css样式
-
 * JS
   * [npm Intellisense](https://github.com/ChristianKohler/NpmIntellisense) - 自动提示npm包的导入
   * [Path Intellisense](https://github.com/ChristianKohler/PathIntellisense) - 自动提示文件路径
@@ -114,25 +106,20 @@ Plugin
   * [Code Runner](https://github.com/formulahendry/vscode-code-runner) - 支持执行多语言测试代码
   * [Import Cost](https://github.com/wix/import-cost) - 在编辑器中显示import/require包大小。
   * [Regex Previewer](https://github.com/chrmarti/vscode-regex) - 测试写的正则表达式
-
 * React/Vue
   * [react-beautify](https://github.com/taichi/react-beautify) - 这个扩展封保存自动美化 JS, JSX, typescript, TSX 文件。
   * [Reactjs code snippets](https://github.com/xabikos/vscode-react) - ES6语法高亮，Reactjs开发的代码提示。
   * [Vetur](https://github.com/vuejs/vetur) - Vue-VSCode工具，支持高亮代码，自动补全，代码片段等
 
-## Vim Plugin
+### Vim Plugin
 
-* [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim插件管理工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/VundleVim/Vundle.vim)
-* [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的vim插件管理器。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/junegunn/vim-plug)
+* [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim插件管理工具。[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg)](https://github.com/VundleVim/Vundle.vim)
+* [vim-plug](https://github.com/junegunn/vim-plug) - 一个简约的vim插件管理器。[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg)](https://github.com/junegunn/vim-plug)
 * [WebVim](https://github.com/krampstudio/webvim) - 倾向于开发JavaScript和Web的vim。
-* [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的vim。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jaywcjlove/vim-web)
-* [Neovim](https://neovim.io/) -  提高Vim可扩张灵活性。[![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
-* [Spacevim](https://github.com/ctjhoa/spacevim) -  模仿Spacemacs的使用方式。
-* [Spf13](http://vim.spf13.com/) - 一套全方位的配置项目。
-* [vimplus](https://github.com/chxuan/vimplus) - 一套完全自动化打造Vim开发环境的项目。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chxuan/vimplus)
+* [vim-web](https://github.com/jaywcjlove/vim-web) - 一个前端开发工程师的vim。[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg)](https://github.com/jaywcjlove/vim-web)
+* [Neovim](https://neovim.io) - 提高Vim可扩张灵活性。[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg)](https://github.com/neovim/neovim) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg)
+* [Spacevim](https://github.com/ctjhoa/spacevim) - 模仿Spacemacs的使用方式。
+* [Spf13](http://vim.spf13.com) - 一套全方位的配置项目。
+* [vimplus](https://github.com/chxuan/vimplus) - 一套完全自动化打造Vim开发环境的项目。[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg)](https://github.com/chxuan/vimplus)
 * [ivim](https://github.com/kepbod/ivim) - 一套简单易用，高可定制化 vim 配置方案。
 * [7th-vim](https://github.com/dofy/7th-vim) - 轻量级，可定制化的 vim 配置方案。
-
-[OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
-[Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
-[app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg
