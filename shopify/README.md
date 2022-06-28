@@ -1,4 +1,4 @@
-# Shopify Awesome 真棒
+# Shopify Awesome 真棒!
 
 > 👩‍🎓👨‍🎓 Shopify 所有者和應用程序開發人員必讀的文章、視頻和書籍。
 
@@ -6,7 +6,7 @@
   <img width="100%" src="https://raw.githubusercontent.com/growthbunker/awesome-shopify/master/images/shopify_banner.jpg">
 </a>
 
-＃#目錄
+##目錄
 
 - [真棒 Shopify](#awesome-shopify)
   * [目錄](#table-of-contents)
@@ -375,7 +375,7 @@ Unite 是 Shopify 的年度合作夥伴和開發者大會。這是他們作為�
 
 - 👥 [Shopify 狀態](https://status.shopify.com/)。
 
-＃＃＃#主要的
+####主要的
 
 - 👥 [Shopify subreddit](https://www.reddit.com/r/shopify/)。
 
@@ -389,7 +389,7 @@ Unite 是 Shopify 的年度合作夥伴和開發者大會。這是他們作為�
 
 ### 由 Shopify 構建
 
-＃＃＃#產品
+####產品
 
 - 🚀 [Shopify Fulfillment Network](https://www.shopify.com/fulfillment)。
 
@@ -411,7 +411,7 @@ Unite 是 Shopify 的年度合作夥伴和開發者大會。這是他們作為�
 
 - 🚀 [Shopify 套件](https://www.shopify.com/kit)。
 
-＃＃＃#應用
+####應用
 
 - 📦 [高級貨到付款](https://apps.shopify.com/advanced-cash-on-delivery)：控制買家如何在您的商店中使用貨到付款（僅限印度）。
 
@@ -513,7 +513,7 @@ Unite 是 Shopify 的年度合作夥伴和開發者大會。這是他們作為�
 
 - 🌟 [Shopify Launchpad](https://www.shopify.com/plus/solutions/ecommerce-campaigns-flash-sale-automation)。
 
-＃＃＃＃#其他
+#####其他
 
 - 💰 [交易市場](https://exchangemarketplace.com/)。
 
@@ -539,7 +539,7 @@ Unite 是 Shopify 的年度合作夥伴和開發者大會。這是他們作為�
 
 ###營銷資源
 
-＃＃＃#廣告
+####廣告
 
 ##### Google Ads（搜索、展示、Gmail、購物、YouTube）
 
@@ -553,7 +553,7 @@ Unite 是 Shopify 的年度合作夥伴和開發者大會。這是他們作為�
 
 - 📖 [投資回報率最高的前 9+4 個自定義受眾](https://newsfeed.org/top-9-4-custom-audiences-with-really-high-roi/)。
 
-＃＃＃＃#看起來像
+#####看起來像
 
 - 📖 [向與當前客戶或特定人群相似的受眾群體宣傳一些產品](https://www.growthbunker.com/experiments/details/12)。
 
@@ -583,7 +583,7 @@ Unite 是 Shopify 的年度合作夥伴和開發者大會。這是他們作為�
 
 - 📖 [零售店使用的 6 種庫存和銷售報告類型](https://www.vendhq.com/blog/retail-inventory-sales-reports/)。
 
-＃＃＃#應用
+####應用
 
 - 📖 [您需要安裝的最佳 14 個免費 Shopify 應用程序](https://www.oberlo.com/blog/top-14-free-shopify-apps-need-install)。
 
@@ -591,7 +591,7 @@ Unite 是 Shopify 的年度合作夥伴和開發者大會。這是他們作為�
 
 - 📖 [提高 Shopify 商店業績的 20 個最佳 Shopify 應用程序](https://gorgias.io/blog/best-shopify-apps)。
 
-＃＃＃#客戶支持
+####客戶支持
 
 - 📖 [實時聊天對您的企業網站很重要的 5 個原因](https://www.liveagent.com/blog/5-reasons-why-live-chat-is-important-for-your-business-website/ ）。
 
@@ -641,7 +641,7 @@ Unite 是 Shopify 的年度合作夥伴和開發者大會。這是他們作為�
 
 - 📖 [對於 SEO，多快才夠快？](https://www.practicalecommerce.com/for-seo-how-fast-is-fast-enough)。
 
-＃＃＃#社交媒體
+####社交媒體
 
 - 📖 [圍繞您的產品故事發佈病毒式 Twitter 主題。表演時，使用 Twitter 廣告進行宣傳](https://www.growthbunker.com/experiments/details/3)。
 
@@ -655,7 +655,7 @@ Unite 是 Shopify 的年度合作夥伴和開發者大會。這是他們作為�
 
 - 📖 [在感謝頁面上通過升級版本或交叉銷售互補產品向客戶追加銷售](https://www.growthbunker.com/experiments/details/11)。
 
-＃＃＃#其他
+####其他
 
 - 📖 [增長黑客電子商務：18 個被低估的黑客以轉換更多訪問者]（https://www.coredna.com/blogs/ecommerce-growth-hacks）。
 
@@ -665,7 +665,7 @@ Unite 是 Shopify 的年度合作夥伴和開發者大會。這是他們作為�
 
 - ⚙️ [BuiltWith](https://builtwith.com/)。
 
-＃＃#代發貨
+###代發貨
 
 - 🚚 [Oberlo](https://www.oberlo.com/)。
 
@@ -747,7 +747,7 @@ Unite 是 Shopify 的年度合作夥伴和開發者大會。這是他們作為�
 
 - 👥 [Shopify Partners India (Facebook Group)](https://www.facebook.com/groups/1881790712089368)。
 
-＃＃＃#其他
+####其他
 
 - 👥 [合作夥伴地圖](https://partnermaps.io/)。
 
