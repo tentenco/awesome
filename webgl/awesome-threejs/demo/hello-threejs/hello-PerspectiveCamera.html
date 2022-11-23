@@ -1,0 +1,120 @@
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>hello-PerspectiveCamera</title>
+	<style>
+		body {
+			margin: 0;
+			overflow: hidden;
+		}
+	</style>
+	<script type="text/javascript" src="../../libs/three.js"></script>
+	<script type="text/javascript" src="../../libs/OrbitControls.js"></script>
+	<script type="text/javascript" src="../../libs/stats.js"></script>
+</head>
+
+<body>
+	<script type="text/javascript">
+		var SCREEN_WIDTH = window.innerWidth;
+		var SCREEN_HEIGHT = window.innerHeight;
+
+		var container, stats;
+		var camera, scene, renderer, mesh, grid, controls;
+		var cameraPerspective, cameraRig;
+
+		// -----
+
+		init();
+		animate();
+
+		function init() {
+
+			container = document.createElement('div');
+			document.body.appendChild(container);
+
+			scene = new THREE.Scene();
+
+			cameraPerspective = new THREE.PerspectiveCamera(50, 0.5 * SCREEN_WIDTH / SCREEN_HEIGHT, 300, 1200);
+			cameraPerspective.fov = 15;
+			cameraPerspective.rotation.y = Math.PI;
+			scene.add(cameraPerspective);
+
+			cameraPerspectiveHelper = new THREE.CameraHelper(cameraPerspective);
+			scene.add(cameraPerspectiveHelper);
+
+			camera = new THREE.PerspectiveCamera(50, SCREEN_WIDTH / SCREEN_HEIGHT, 1, 10000);
+			camera.position.y = 300;
+			camera.position.z = 1500;
+
+			cameraRig = new THREE.Object3D();
+
+			cameraRig.add(cameraPerspective);
+
+			cameraRig.position.set(-300, 400, 500);
+
+			scene.add(cameraRig);
+
+			grid = new THREE.GridHelper(1000, 40, 0x555555, 0xbbbbbb);
+			grid.material.transparent = true;
+			// grid.position.y = -200;
+			scene.add(grid);
+
+			mesh = new THREE.Mesh(
+				// new THREE.SphereGeometry( 50, 20, 12),
+				new THREE.BoxGeometry(100, 100, 100),
+				new THREE.MeshNormalMaterial()
+			);
+			mesh.position.y = 60;
+			scene.add(mesh);
+
+			renderer = new THREE.WebGLRenderer({
+				antialias: true,
+				alpha: true
+			});
+			renderer.setClearColor(0xeeeeee, 1); // the default
+			renderer.setSize(SCREEN_WIDTH, SCREEN_HEIGHT);
+			renderer.domElement.style.position = "relative";
+			container.appendChild(renderer.domElement);
+
+			renderer.autoClear = false;
+
+			controls = new THREE.OrbitControls(camera, renderer.domElement);
+
+			//
+			// stats = new Stats();
+			// container.appendChild(stats.domElement);
+
+		}
+
+
+		function animate() {
+			requestAnimationFrame(animate);
+			render();
+			// stats.update();
+		}
+
+		function render() {
+
+			var r = Date.now() * 0.0005;
+
+			// mesh.position.x = 500 * Math.cos( r );
+			// mesh.position.z = 500 * Math.sin( r );
+			// mesh.position.y = 500 * Math.sin( r );
+
+			cameraPerspective.updateProjectionMatrix();
+			cameraPerspectiveHelper.update();
+
+			cameraRig.lookAt(mesh.position);
+
+			renderer.clear();
+
+			renderer.setViewport(0, 0, SCREEN_WIDTH, SCREEN_HEIGHT);
+			renderer.render(scene, camera);
+		}
+	</script>
+</body>
+
+</html>

@@ -1,0 +1,157 @@
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>hello-tween</title>
+	<style>
+		body {
+			margin: 0;
+			overflow: hidden;
+		}
+	</style>
+	<script type="text/javascript" src="../../libs/three.js"></script>
+	<script type="text/javascript" src="../../libs/OrbitControls.js"></script>
+	<script type="text/javascript" src="../../libs/Detector.js"></script>
+	<script type="text/javascript" src="../../libs/stats.js"></script>
+	<script type="text/javascript" src="../../libs/tween.js"></script>
+</head>
+
+<body>
+	<script type="text/javascript">
+
+		if ( ! Detector.webgl ) Detector.addGetWebGLMessage();
+
+		var container, stats;
+		var camera, scene, renderer, mesh, grid, controls;
+		// -----
+
+		var clock = new THREE.Clock();
+
+		init();
+		animate();
+
+		function init() {
+
+			container = document.createElement('div');
+			document.body.appendChild(container);
+
+			scene = new THREE.Scene();
+
+			camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 1, 100000);
+			camera.position.set( 0, 200, 300 );
+			camera.lookAt(scene.position);
+
+			grid = new THREE.GridHelper(2000, 40, 0x555555, 0xbbbbbb);
+			grid.position.y = -150;
+			scene.add(grid);
+
+			//------------- start 添加多角度灯光 ------------
+			var ambLight = new THREE.AmbientLight(0x444444);
+			scene.add(ambLight);
+
+			// directional - KEY LIGHT
+      var keyLight = new THREE.DirectionalLight( 0xdddddd, .7 );
+      keyLight.position.set( -80, 60, 80 );
+      scene.add( keyLight );
+
+			//------------- end 添加多角度灯光 ------------
+
+			var material = new THREE.MeshPhongMaterial({
+				color: 0xcccccc,
+				side: THREE.DoubleSide // 双面绘制
+			});
+
+			// json 格式文件加载
+			var objloader = new THREE.ObjectLoader();
+			objloader.load( "../models/teapot.json", function( group ) {
+				mesh = group.children[0];
+				mesh.material = material;
+				mesh.scale.set(4,4,4);
+				mesh.position.y = -120;
+				mesh.position.x = 150;
+				scene.add( mesh );
+
+				setupTween(mesh.position, 'x', -120);
+				setupTween2(mesh.rotation, 'y', -Math.PI);
+
+			});
+
+
+			renderer = new THREE.WebGLRenderer({
+				antialias: true,
+				alpha: true
+			});
+
+			renderer.setClearColor(0x000000, 0.1);
+			renderer.setSize(window.innerWidth, window.innerHeight);
+
+			container.appendChild(renderer.domElement);
+
+
+			controls = new THREE.OrbitControls(camera, renderer.domElement);
+			controls.enableKeys = false;
+
+			stats = new Stats();
+			container.appendChild( stats.domElement );
+
+			window.addEventListener('resize', onWindowResize, false);
+		}
+
+		function animate() {
+			requestAnimationFrame(animate);
+			// var delta = clock.getDelta();
+			// if (mesh) {
+			// 	mesh.rotation.y -= 0.5 * delta;
+			// }
+			// mesh.rotation.y += 0.01;
+	    // if (mesh.rotation.y > Math.PI * 2) {
+	    //     mesh.rotation.y -= Math.PI * 2;
+	    // }
+			stats.update();
+			controls.update();
+			renderer.render(scene, camera);
+			TWEEN.update();
+		}
+
+		function onWindowResize() {
+			camera.aspect = window.innerWidth / window.innerHeight;
+			camera.updateProjectionMatrix();
+			renderer.setSize(window.innerWidth, window.innerHeight);
+		}
+
+		function setupTween(obj, prop, targetValue) {
+			var update  = function(){
+				obj[prop] = current.property;
+			}
+
+			var current = { property: obj[prop] };
+			var target = { property: targetValue };
+
+			var tween = new TWEEN.Tween(current)
+				.to(target, 1000)
+				.repeat( Infinity ).delay( 1500 ).yoyo( true )
+				.easing(TWEEN.Easing.Cubic.Out)
+				.onUpdate(update)
+				.start();
+		}
+
+		function setupTween2(obj, prop, targetValue) {
+			var update  = function(){
+				obj[prop] = current.property;
+			}
+
+			var current = { property: obj[prop] };
+			var target = { property: targetValue };
+
+			var tween = new TWEEN.Tween(current).to(target, 1500)
+				.repeat( Infinity ).delay( 500 ).yoyo( true )
+				.easing(TWEEN.Easing.Elastic.Out)
+				.onUpdate(update)
+				.start();
+		}
+	</script>
+</body>
+
+</html>

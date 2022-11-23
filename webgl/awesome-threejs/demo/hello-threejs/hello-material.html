@@ -1,0 +1,147 @@
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>hello-material</title>
+	<style>
+		body {
+			margin: 0;
+			overflow: hidden;
+		}
+	</style>
+	<script type="text/javascript" src="../../libs/three.js"></script>
+	<script type="text/javascript" src="../../libs/OrbitControls.js"></script>
+	<script type="text/javascript" src="../../libs/stats.js"></script>
+</head>
+
+<body>
+	<script type="text/javascript">
+		var SCREEN_WIDTH = window.innerWidth;
+		var SCREEN_HEIGHT = window.innerHeight;
+
+		var container, stats;
+		var camera, scene, renderer, mesh, grid, controls;
+		// -----
+
+		init();
+		animate();
+
+		function init() {
+
+			container = document.createElement('div');
+			document.body.appendChild(container);
+
+			scene = new THREE.Scene();
+
+			camera = new THREE.PerspectiveCamera(60, SCREEN_WIDTH / SCREEN_HEIGHT, 1, 100000);
+			camera.position.y = 80;
+			camera.position.z = 450;
+			camera.lookAt(scene.position);
+
+			grid = new THREE.GridHelper(2000, 40, 0x555555, 0xbbbbbb);
+			grid.position.y = -150;
+			scene.add(grid);
+
+			var ambLight = new THREE.AmbientLight(0x444444);
+			scene.add(ambLight);
+
+			var dLlight = new THREE.DirectionalLight(0xdddddd, 1);
+			dLlight.position.set(-100, 100, 100);
+			scene.add(dLlight);
+
+			var texture1 = THREE.ImageUtils.loadTexture('http://127.0.0.1:8080/demo/images/brick_bump.jpg');
+			var texture2 = THREE.ImageUtils.loadTexture('http://127.0.0.1:8080/demo/images/hardwood2_diffuse.jpg');
+			var texture3 = THREE.ImageUtils.loadTexture('http://127.0.0.1:8080/demo/images/hardwood2_roughness.jpg');
+			var texture4 = THREE.ImageUtils.loadTexture('http://127.0.0.1:8080/demo/images/hardwood2_bump.jpg');
+			var texture5 = THREE.ImageUtils.loadTexture('http://127.0.0.1:8080/demo/images/hardwood2_diffuse.jpg');
+
+			var materialBasic = new THREE.MeshBasicMaterial({
+				color: 0xaaaaaa,
+				map: texture1
+			});
+			var materialLambert = new THREE.MeshLambertMaterial({
+			 	map: texture2
+			});
+			var materialPhong = new THREE.MeshPhongMaterial({
+				color: 0xaaaaaa,
+				shininess: 40,
+				map: texture3
+			});
+			var materialStandard = new THREE.MeshStandardMaterial({
+				color: 0xaaaaaa,
+				roughness: 0.6,
+				map: texture4
+			});
+			var materialToon = new THREE.MeshToonMaterial({
+				color: 0xaaaaaa,
+				shininess: 1,
+				map: texture5
+			});
+			var materialNormal = new THREE.MeshNormalMaterial();
+
+			var geometry = new THREE.SphereGeometry(50, 24, 16);
+
+			mesh1 = new THREE.Mesh(geometry, materialBasic);
+			mesh1.position.x = -300;
+			scene.add(mesh1);
+
+			mesh2 = new THREE.Mesh(geometry.clone(), materialLambert);
+			mesh2.position.x = -180;
+			scene.add(mesh2);
+
+			mesh3 = new THREE.Mesh(geometry.clone(), materialPhong);
+			mesh3.position.x = -60;
+			scene.add(mesh3);
+
+			mesh4 = new THREE.Mesh(geometry.clone(), materialStandard);
+			mesh4.position.x = 60;
+			scene.add(mesh4);
+
+			mesh5 = new THREE.Mesh(geometry.clone(), materialToon);
+			mesh5.position.x = 180;
+			scene.add(mesh5);
+
+			mesh6 = new THREE.Mesh(geometry.clone(), materialNormal);
+			mesh6.position.x = 300;
+			scene.add(mesh6);
+
+			renderer = new THREE.WebGLRenderer({
+				antialias: true,
+				alpha: true
+			});
+
+			renderer.setClearColor(0x000000, 0.1);
+			renderer.setSize(SCREEN_WIDTH, SCREEN_HEIGHT);
+
+			container.appendChild(renderer.domElement);
+
+
+			controls = new THREE.OrbitControls(camera, renderer.domElement);
+			controls.enableKeys = false;
+
+			// stats = new Stats();
+			// container.appendChild( stats.domElement );
+
+			window.addEventListener('resize', onWindowResize, false);
+		}
+
+		function animate() {
+			// mesh.rotation.x += 0.01;
+			// mesh.rotation.y += 0.02;
+			requestAnimationFrame(animate);
+			renderer.render(scene, camera);
+			// stats.update();
+		}
+
+		function onWindowResize() {
+			// Perspective
+			camera.aspect = SCREEN_WIDTH / SCREEN_HEIGHT;
+			camera.updateProjectionMatrix();
+			renderer.setSize(SCREEN_WIDTH, SCREEN_HEIGHT);
+		}
+	</script>
+</body>
+
+</html>

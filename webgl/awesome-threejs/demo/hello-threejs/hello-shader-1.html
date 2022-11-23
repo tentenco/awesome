@@ -1,0 +1,151 @@
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>hello-shader-1</title>
+	<style>
+		body {
+			margin: 0;
+			overflow: hidden;
+		}
+	</style>
+	<script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+	<script type="text/javascript" src="../../libs/three.js"></script>
+	<script type="text/javascript" src="../../libs/OrbitControls.js"></script>
+	<script type="text/javascript" src="../../libs/Detector.js"></script>
+  <script type="text/javascript" src="../../libs/dat.gui.js"></script>
+	<script type="text/javascript" src="../../libs/stats.js"></script>
+
+</head>
+
+<body>
+	<!-- Shaders -->
+	<script type="x-shader/x-vertex" id="vertexshader">
+		varying vec2 vUv; // 声明了一个叫vUv的变量，它的类型为vec2 顶点着色器和片元着色器都包含了该变量
+		void main() {
+		    // 将 vUv 设置为 uv ，后者是 Three.js 创建并传递给着色器的 attribute 变量
+		    vUv = uv;  // uv 它代表了该顶点在UV映射时的横纵坐标
+		    gl_Position = projectionMatrix * modelViewMatrix * vec4(position, 1.0);
+		}
+	</script>
+
+	<script type="x-shader/x-fragment" id="fragmentshader">
+
+		uniform float u_time;
+
+		varying vec2 vUv; // 和顶点着色器中一样的变量 vUv
+		void main() {
+		    gl_FragColor = vec4(vUv.x, vUv.y, abs(sin(u_time)), 1.0);
+		}
+	</script>
+
+	<!-- End Shaders -->
+
+	<script type="text/javascript">
+		if (!Detector.webgl) Detector.addGetWebGLMessage();
+
+		var container, stats;
+		var camera, scene, renderer, mesh, geometry, grid, controls;
+		var uniforms;
+		// -----
+
+		var clock = new THREE.Clock();
+
+		init();
+		animate();
+
+		function init() {
+
+			container = document.createElement('div');
+			document.body.appendChild(container);
+
+			scene = new THREE.Scene();
+
+			camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 1, 100000);
+			camera.position.set(0, 200, 300);
+			camera.lookAt(scene.position);
+
+			grid = new THREE.GridHelper(2000, 40, 0x555555, 0xbbbbbb);
+			grid.position.y = -150;
+			scene.add(grid);
+
+
+			geometry = new THREE.CubeGeometry(100, 100, 100)
+
+			uniforms = {
+         u_time: { type: "f", value: 1.0 },
+      };
+
+			//---------------- start -------------
+			material = new THREE.ShaderMaterial({
+				uniforms: uniforms,
+				vertexShader:   $('#vertexshader').text(),
+				fragmentShader: $('#fragmentshader').text()
+			});
+
+			mesh = new THREE.Mesh(geometry, material);
+			scene.add(mesh);
+			//---------------- end ------------
+
+			renderer = new THREE.WebGLRenderer({
+				antialias: true,
+				alpha: true
+			});
+
+			renderer.setClearColor(0x000000, 0.1);
+			renderer.setSize(window.innerWidth, window.innerHeight);
+
+			container.appendChild(renderer.domElement);
+
+			controls = new THREE.OrbitControls(camera, renderer.domElement);
+			controls.enableKeys = false;
+
+			onWindowResize();
+			window.addEventListener('resize', onWindowResize, false);
+
+			setupGUI();
+			setupStats()
+		}
+
+		function setupGUI() {
+				effectController = {
+					rotationSpeed: 0.02,
+				};
+				var h;
+				var gui = new dat.GUI();
+				// h = gui.addFolder( "Rotation speed control" );
+				gui.add( effectController, "rotationSpeed", 0.0, 1.0, 0.02 ).name( "rotationSpeed" ).onChange( render );
+		}
+
+		function setupStats() {
+			stats = new Stats();
+			stats.setMode(1); // 0: fps, 1: ms
+			stats.domElement.style.position = 'absolute';
+			document.body.appendChild( stats.domElement );
+		}
+
+		function render() {
+			uniforms.u_time.value += 0.05;
+			renderer.render(scene, camera);
+		}
+
+		function animate() {
+			requestAnimationFrame(animate);
+			var delta = clock.getDelta();
+			if (mesh) {
+				mesh.rotation.y -= effectController.rotationSpeed
+			}
+			controls.update();
+			stats.update();
+			render();
+		}
+
+		function onWindowResize() {
+			renderer.setSize(window.innerWidth, window.innerHeight);
+		}
+	</script>
+</body>
+
+</html>

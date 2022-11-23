@@ -1,0 +1,271 @@
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>My-Threejs</title>
+	<link rel="stylesheet" type="text/css" href="../css/style.css" />
+	<script type="text/javascript" src="../../libs/three.js"></script>
+	<script type="text/javascript" src="../../libs/OrbitControls.js"></script>
+	<script type="text/javascript" src="../../libs/Detector.js"></script>
+	<script type="text/javascript" src="../../libs/stats.js"></script>
+	<script type="text/javascript" src="../../libs/tween.js"></script>
+	<script type="text/javascript" src="../../libs/dat.gui.js"></script>
+
+	<script type="text/javascript" src="../../libs/loaders/MTLLoader.js"></script>
+	<script type="text/javascript" src="../../libs/loaders/OBJLoader.js"></script>
+	<script type="text/javascript" src="../../libs/loaders/LoaderSupport.js"></script>
+	<script type="text/javascript" src="../../libs/loaders/OBJLoader2.js"></script>
+	<script type="text/javascript" src="../../libs/loaders/STLLoader.js"></script>
+</head>
+
+<body>
+	<div class="zk-wrap">
+		 <div class="zk-header"></div>
+		 <div class="zk-main">
+		 	  <div id="zk-three" class="zk-three"></div>
+				<div class="zk-handler">
+					 <ul>
+					 	  <li>
+					 	  	 <a href="javascript:;" onclick="changeModle(1)">更换模型1</a>
+					 	  </li>
+							<li>
+								 <a href="javascript:;" onclick="changeModle(2)">更换模型2</a>
+							</li>
+							<li>
+								 <a href="javascript:;" onclick="changeModle(3)">更换模型3</a>
+							</li>
+							<li>
+					 	  	 <a href="javascript:;" onclick="changeTex(1)">切换材质1</a>
+					 	  </li>
+							<li>
+					 	  	 <a href="javascript:;" onclick="changeTex(2)">切换材质2</a>
+					 	  </li>
+							<li>
+					 	  	 <a href="javascript:;" onclick="changePlace()">位置移动</a>
+					 	  </li>
+							<li>
+					 	  	 <a href="javascript:;" onclick="changeView()">视角切换</a>
+					 	  </li>
+					 </ul>
+				</div>
+		 </div>
+	</div>
+	<script type="text/javascript">
+
+		if ( ! Detector.webgl ) Detector.addGetWebGLMessage();
+
+		var container, stats, ww, wh;
+		var camera, scene, renderer, mesh, grid, controls, material;
+		var gui, effectController;
+		// -----
+
+		var clock = new THREE.Clock();
+
+		init();
+		animate();
+
+
+		function init() {
+
+			container = document.getElementById('zk-three');
+			ww = container.offsetWidth;
+			wh = container.offsetHeight;
+
+			scene = new THREE.Scene();
+
+			camera = new THREE.PerspectiveCamera(60, ww / wh, 1, 100000);
+			camera.position.set( 0, 200, 300 );
+			camera.lookAt(scene.position);
+
+			grid = new THREE.GridHelper(2000, 40, 0x555555, 0xbbbbbb);
+			grid.position.y = -150;
+			scene.add(grid);
+
+
+			setupLight()
+
+			loader(1)
+
+			renderer = new THREE.WebGLRenderer({
+				antialias: true,
+				alpha: true
+			});
+
+			renderer.setClearColor(0x000000, 0.1);
+			renderer.setSize(ww, wh);
+			container.appendChild(renderer.domElement);
+
+
+			controls = new THREE.OrbitControls(camera, renderer.domElement);
+			controls.enableKeys = false;
+
+
+			window.addEventListener('resize', onWindowResize, false);
+
+			setupStats()
+			setupGUI()
+
+		}
+
+		function setupStats() {
+			stats = new Stats();
+			stats.setMode(1); // 0: fps, 1: ms
+			stats.domElement.style.position = 'absolute';
+			document.body.appendChild( stats.domElement );
+		}
+
+		function setupGUI() {
+				effectController = {
+					rotationSpeed: 0.02,
+				};
+				gui = new dat.GUI();
+				var f1 = gui.addFolder( "Rotation speed control" );
+				f1.add(effectController, "rotationSpeed", 0.0, 1.0, 0.01 ).name( "rotationSpeed").onChange(render);
+				f1.open();
+		}
+
+		function loader(mod) {
+			switch (mod) {
+				case 1:
+					loaderJson(mod)
+					break;
+				case 2:
+					loaderOBJ()
+					break;
+				case 3:
+					loderMTL()
+					break;
+			}
+		}
+
+		function setupLight() {
+			var ambLight = new THREE.AmbientLight(0x444444);
+			scene.add(ambLight);
+
+			// directional - KEY LIGHT
+			var keyLight = new THREE.DirectionalLight( 0xdddddd, .7 );
+			keyLight.position.set( -80, 60, 80 );
+			scene.add( keyLight );
+
+		}
+
+		function loaderJson(tex) {
+			var loader = new THREE.TextureLoader();
+
+			var texture1 = 'http://127.0.0.1:8080/demo/images/hardwood2_diffuse.jpg';
+			var texture2 = 'http://127.0.0.1:8080/demo/images/hardwood2_roughness.jpg';
+
+			loader.load(tex == 1 ? texture1 : texture2,
+				function (texture) {
+					material = new THREE.MeshPhongMaterial({
+						color: 0xbbbbbb,
+						side: THREE.DoubleSide, // 双面绘制
+						map: texture
+					 });
+				}
+			);
+			scene.remove(mesh)
+			// json 格式文件加载
+			var objloader = new THREE.ObjectLoader();
+			objloader.load( "../models/teapot.json", function( group ) {
+				mesh = group.children[0];
+				mesh.material = material;
+				mesh.scale.set(4,4,4);
+				mesh.position.y = -30;
+				scene.add( mesh );
+			});
+		}
+
+		function loaderOBJ() {
+			// obj 格式文件加载
+			scene.remove(mesh)
+			var loader = new THREE.OBJLoader();
+			loader.load('../models/mplane.obj', function(obj) {
+					obj.traverse(function(child) {
+							if (child instanceof THREE.Mesh) {
+									child.material = new THREE.MeshLambertMaterial({
+											// color: 0xffffff,
+											side: THREE.DoubleSide
+									});
+							}
+					});
+					mesh = obj;
+					mesh.position.y = -30;
+					mesh.scale.set(30,30,30);
+					scene.add(obj);
+			});
+		}
+
+		function loderMTL() {
+			// 建模软件中设置材质
+			scene.remove(mesh)
+			var mtlLoader = new THREE.MTLLoader();
+			mtlLoader.load('../models/monkey.mtl', function(materials) {
+					// model loader
+					materials.preload();
+					var objLoader = new THREE.OBJLoader()
+							.setMaterials(materials)
+							.load('../models/monkey.obj', function (obj) {
+									mesh = obj;
+									mesh.position.y = -30;
+									mesh.position.z = -120;
+									mesh.scale.set(30,30,30);
+									scene.add(obj);
+					});
+			});
+		}
+
+		function render() {
+			renderer.render(scene, camera);
+		}
+
+		function animate() {
+			requestAnimationFrame(animate);
+			var delta = clock.getDelta();
+			mesh.rotation.y += effectController.rotationSpeed
+			stats.update();
+			controls.update();
+			TWEEN.update();
+			render();
+		}
+
+		function onWindowResize() {
+			camera.aspect = ww / wh;
+			camera.updateProjectionMatrix();
+			renderer.setSize(ww, wh);
+		}
+
+		function setupTween(obj, prop, targetValue) {
+			var update  = function(){
+				obj[prop] = current.property;
+			}
+
+			var current = { property: obj[prop] };
+			var target = { property: targetValue };
+
+			var tween = new TWEEN.Tween(current).to(target, 800)
+				.easing(TWEEN.Easing.Cubic.Out)
+				.onUpdate(update);
+
+			tween.start();
+		}
+
+		function changeModle(num) {
+				loader(num)
+		}
+		function changeTex(num) {
+			 loaderJson(num)
+		}
+		function changePlace() {
+			 setupTween(mesh.position, 'y', -200 );
+		}
+		function changeView() {
+			 setupTween(camera.position, 'z', 100 );
+			 setupTween(camera.position, 'y', -200 );
+		}
+	</script>
+</body>
+
+</html>
