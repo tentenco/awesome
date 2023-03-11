@@ -1,68 +1,20 @@
 ---
-description: 🧠 很棒的 ChatGPT 提示
+description: 🧠 很棒的 ChatGPT 提示 - ChatGPT 提示的藝術：製作清晰有效的提示的指南
 ---
 
 # Awesome ChatGPT
 
 歡迎來到“Awesome ChatGPT Prompts”存儲庫！這是一組用於 ChatGPT 模型的提示示例。
 
-[ChatGPT](https://chat.openai.com/chat)模型是由 [OpenAI](https://openai.com)訓練的大型語言模型，能夠生成類似人類的文本。通過向它提供提示，它可以生成繼續對話或擴展給定提示的響應。
+[ChatGPT](https://chat.openai.com/chat)模型是由 [OpenAI](https://openai.com/)訓練的大型語言模型，能夠生成類似人類的文本。通過向它提供提示，它可以生成繼續對話或擴展給定提示的響應。
 
-在此存儲庫中，您將找到可與 ChatGPT 一起使用的各種提示。我們鼓勵您向列表[添加自己的提示](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md)，並使用 ChatGPT 生成新提示。
-
-要開始使用，只需克隆此存儲庫並使用 README.md 文件中的提示作為 ChatGPT 的輸入。您還可以使用此文件中的提示作為創建您自己的提示的靈感。
+要開始使用，只需複製你想要 ChatGPT 扮演的提示作為 ChatGPT 的輸入。您還可以使用此文件中的提示作為創建您自己的提示的靈感。
 
 我們希望您發現這些提示很有用，並能從使用 ChatGPT 中獲得樂趣！
 
-[**在 GitHub 上查看**](https://github.com/f/awesome-chatgpt-prompts)
+關於更多 [ChatGPT 提示指令分享與討論可到此討論串](https://www.webflow.tw/t/topic/67)
 
-[**Hugging Face 上的視圖**](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)
-
-**下載 ChatGPT 桌面應用程序**：[**macOS**](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT\_0.10.1\_x64.dmg) / [**Windows**](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT\_0.10.1\_x64\_en-US.msi) / [**Linux**](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt\_0.10.1\_amd64.deb)
-
-> ℹ️ **注意：** 有時，某些提示可能無法按您的預期工作，或者可能被 AI 拒絕。請重試，開始一個新線程，或註銷並重新登錄。如果這些解決方案不起作用，請嘗試使用您自己的句子重寫提示，同時保持說明不變。
-
-#### 想要編寫有效的提示？
-
-我撰寫了一本名為 **“ChatGPT 提示的藝術：製作清晰有效的提示的指南”** 的免費電子書。
-
-📖 [**閱讀免費電子書**](https://fka.gumroad.com/l/art-of-chatgpt-prompting?a=705657043)
-
-#### 想要部署您自己的 Prompt 應用程序？
-
-[Steamship](https://www.steamship.com/build?utm\_source=github\&utm\_medium=explainer\&utm\_campaign=awesome\_gpt\_prompts\&utm\_id=awesome\_gpt\_prompts)的人們構建了一個框架來託管和共享您的 GPT 應用程序。他們通過讓您免費（每天最多 500 個電話）訪問最新的 GPT 模型來贊助這個 repo。
-
-👷‍♂️ [**構建您自己的 GPT 提示應用程序**](https://www.steamship.com/build?utm\_source=github\&utm\_medium=explainer\&utm\_campaign=awesome\_gpt\_prompts\&utm\_id=awesome\_gpt\_prompts)
-
-#### 想學習如何使用 ChatGPT 提示賺錢嗎？
-
-我撰寫了一本名為 **“如何使用 ChatGPT 賺錢：策略、技巧和策略”** 的電子書。
-
-📖 [**購買電子書**](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt?a=705657043)
-
-***
-
-#### 使用 ChatGPT 桌面應用程序
-
-_unofficial_ ChatGPT 桌面應用程序提供了一種方便的方式來訪問和使用此存儲庫中的提示。使用該應用程序，您可以輕鬆導入所有提示並將它們與斜杠命令一起使用，例如 `/linux_terminal`。此功能消除了每次要使用它們時手動複製和粘貼提示的需要。
-
-> **Desktop App 是一個非官方的** [**@lencx 開源項目**](https://github.com/lencx/ChatGPT)**。它是 ChatGPT 網絡界面的簡單包裝器，具有強大的附加功能。**
-
-![屏幕截圖 2022-12-19 at 19 13 41](https://user-images.githubusercontent.com/196477/208471439-877c2bcf-93ec-4ad9-9cb0-7e4ed7b1756a.png)
-
-***
-
-#### 使用 AI創建你自己的提示
-
-[Merve Noyan](https://huggingface.co/merve)創建了一個特殊的 [ChatGPT 提示生成器應用程序](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)，允許用戶生成量身定制的提示到他們想要的角色。該應用程序使用此存儲庫作為其訓練數據集。
-
-***
-
-#### 使用 prompts.chat
-
-[prompts.chat](https://prompts.chat)旨在在使用提示時提供增強的用戶體驗。只需點擊幾下，您就可以輕鬆編輯和復製網站上的提示，以滿足您的特定需求和偏好。複製按鈕將完全按照您編輯的方式複制提示。
-
-***
+![ChatGPT 中文提示指令](https://i.imgur.com/Y8mfOVX.png)
 
 ## 提示
 
