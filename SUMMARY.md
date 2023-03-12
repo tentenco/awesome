@@ -261,5 +261,5 @@
       * [WebGL Libraries - File Size](webgl/awesome-webgl/Libraries/File\_Size.md)
     * [Awesome WebGL - Libaries/Frameworks](webgl/awesome-webgl/Libraries/README.md)
 * [AI](ai/README.md)
-  * [Awesome ChatGPT](ai/awesome-chatgpt/README.md)
+  * [ChatGPT 提示指令庫](ai/awesome-chatgpt/README.md)
     * [Awesome ChatGPT Prompts](ai/awesome-chatgpt/awesome-chatgpt-prompts.md)

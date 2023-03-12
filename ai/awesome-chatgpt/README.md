@@ -2,15 +2,13 @@
 description: 🧠 很棒的 ChatGPT 提示 - ChatGPT 提示的藝術：製作清晰有效的提示的指南
 ---
 
-# Awesome ChatGPT
+# ChatGPT 提示指令庫
 
 歡迎來到“Awesome ChatGPT Prompts”存儲庫！這是一組用於 ChatGPT 模型的提示示例。
 
 [ChatGPT](https://chat.openai.com/chat)模型是由 [OpenAI](https://openai.com/)訓練的大型語言模型，能夠生成類似人類的文本。通過向它提供提示，它可以生成繼續對話或擴展給定提示的響應。
 
-要開始使用，只需複製你想要 ChatGPT 扮演的提示作為 ChatGPT 的輸入。您還可以使用此文件中的提示作為創建您自己的提示的靈感。
-
-我們希望您發現這些提示很有用，並能從使用 ChatGPT 中獲得樂趣！
+要開始使用，只需複製你想要 ChatGPT 扮演的提示指令 (Prompts) 為 ChatGPT 的輸入。您還可以使用此文件中的提示創建您自己的提示指令 (Prompts) 的靈感。我們希望您發現這些提示很有用，並能從使用 ChatGPT 中獲得樂趣！
 
 關於更多 [ChatGPT 提示指令分享與討論可到此討論串](https://www.webflow.tw/t/topic/67)
 
