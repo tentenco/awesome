@@ -262,6 +262,8 @@
       * [WebGL Libraries - File Size](webgl/awesome-webgl/Libraries/File\_Size.md)
     * [Awesome WebGL - Libaries/Frameworks](webgl/awesome-webgl/Libraries/README.md)
 * [AI](ai/README.md)
+  * [ChatGPT 工具收錄](ai/chatgpt-gong-ju-shou-lu/README.md)
+    * [Awesome ChatGPT](ai/chatgpt-gong-ju-shou-lu/awesome-chatgpt.md)
   * [ChatGPT 中文調教指南](ai/chatgpt-zhong-wen-diao-jiao-zhi-nan.md)
   * [GPT 開放原始碼項目合集](ai/gpt-kai-fang-yuan-shi-ma-xiang-mu-he-ji.md)
   * [ChatGPT 應用收藏](ai/chatgpt-ying-yong-shou-cang.md)
