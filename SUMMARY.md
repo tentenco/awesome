@@ -275,3 +275,5 @@
     * [Awesome GPT-3](ai/awesome-gpt3-ying-yong-ji/awesome-gpt-3.md)
   * [ChatGPT 提示指令庫](ai/awesome-chatgpt/README.md)
     * [Awesome ChatGPT Prompts](ai/awesome-chatgpt/awesome-chatgpt-prompts.md)
+* [SaaS](saas/README.md)
+  * [awesome-saas-boilerplates](saas/awesome-saas-boilerplates.md)
