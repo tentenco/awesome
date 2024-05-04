@@ -13,7 +13,7 @@
 
 👉 在 Twitter 上關注我以獲取更新！[https://twitter.com/matchaman11](https://twitter.com/matchaman11)
 
-![螢幕截圖 2023 年 11 月 17 日下午 3 點 02 分](https://github.com/Anil-matcha/Awesome-GPT-Store/assets/4326215/9c28c7fa-c722-4819-bb68-4c318dd336ae)
+![螢幕截圖 2023 年 11 月 17 日下午 3 點 02 分](https://i.imgur.com/y2KcVjP.png)
 
 目錄
 --
