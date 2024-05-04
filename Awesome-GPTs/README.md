@@ -3,16 +3,6 @@
 
 專門客製化 GPT 聊天機器人的精選列表，旨在幫助您完成從技術問題到創意工作的各種任務。
 
-### 不要忘記：
-
-👉 給這個儲存庫一顆星來表達您的支持！ ⭐
-
-👉 想要為您的 GPT 添加身份驗證嗎？查看[https://gpt-auth.com/](https://gpt-auth.com/)
-
-👉 查看 Custom GPT Store Finder 與 ChatGPT 聊天，並從此儲存庫[https://chat.openai.com/g/g-JRQEmbuM9-gpt-store-finder](https://chat.openai.com/g/g-JRQEmbuM9-gpt-store-finder)或網站[https://chat.openai.com/g/g -JRQEmbuM9-gpt-store-finder中的資料取得 GPT 建議/www.thesamur.ai/custom-gpt-store](https://www.thesamur.ai/custom-gpt-store)
-
-👉 在 Twitter 上關注我以獲取更新！[https://twitter.com/matchaman11](https://twitter.com/matchaman11)
-
 ![螢幕截圖 2023 年 11 月 17 日下午 3 點 02 分](https://i.imgur.com/y2KcVjP.png)
 
 目錄
